@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Azure Playground — Cost Dashboard</title>
+    <title>Azure Playground - Cost Dashboard</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
         rel="stylesheet">
@@ -19,7 +19,7 @@
                 <img src="img/devoteam-logo.png" alt="Devoteam">
             </div>
             <h2>Azure Playground</h2>
-            <p>Accès restreint — entrez votre code PIN</p>
+            <p>Accès restreint - entrez votre code PIN</p>
             <input class="pin-input" id="pinInput" type="password" maxlength="6" placeholder="••••" autofocus />
             <p class="pin-hint" id="pinHint">Appuyez sur Entrée pour valider</p>
         </div>
@@ -44,7 +44,7 @@
     <main class="main" id="dashboard" style="display:none">
 
         <div class="page-header fade-in">
-            <h1>Vue des coûts — Month to Date</h1>
+            <h1>Vue des coûts - Month to Date</h1>
             <p id="periodLabel">Chargement...</p>
         </div>
 
@@ -54,9 +54,9 @@
                     <span class="card-title">Total MTD</span>
                     <div class="card-icon red">💰</div>
                 </div>
-                <div class="stat-value" id="totalMTD">—</div>
+                <div class="stat-value" id="totalMTD">-</div>
                 <div class="stat-label">Toutes subscriptions confondues</div>
-                <div class="stat-delta neutral" id="totalDelta">—</div>
+                <div class="stat-delta neutral" id="totalDelta">-</div>
             </div>
 
             <div class="card">
@@ -64,7 +64,7 @@
                     <span class="card-title">Mois précédent</span>
                     <div class="card-icon blue">📅</div>
                 </div>
-                <div class="stat-value" id="totalPrev">—</div>
+                <div class="stat-value" id="totalPrev">-</div>
                 <div class="stat-label">Coût total du mois dernier</div>
             </div>
 
@@ -73,7 +73,7 @@
                     <span class="card-title">Subscriptions actives</span>
                     <div class="card-icon green">☁️</div>
                 </div>
-                <div class="stat-value" id="activeSubs">—</div>
+                <div class="stat-value" id="activeSubs">-</div>
                 <div class="stat-label">Avec coût &gt; 0 ce mois</div>
             </div>
         </div>
@@ -152,7 +152,7 @@
                 loadData();
             } else {
                 pinInput.classList.add('error');
-                pinHint.textContent = 'Code incorrect — réessayez';
+                pinHint.textContent = 'Code incorrect - réessayez';
                 pinHint.classList.add('error-msg');
                 pinInput.value = '';
                 setTimeout(() => {
@@ -172,7 +172,7 @@
         }
 
         function deltaLabel(d) {
-            return d > 0 ? `▲ +${d}%` : d < 0 ? `▼ ${d}%` : '— 0%';
+            return d > 0 ? `▲ +${d}%` : d < 0 ? `▼ ${d}%` : '- 0%';
         }
 
         async function loadData() {
@@ -192,7 +192,7 @@
 
         function render(data) {
             document.getElementById('lastUpdated').textContent = 'Données au ' + data.lastUpdated;
-            document.getElementById('periodLabel').textContent = 'Données mises à jour quotidiennement — ' + data.lastUpdated;
+            document.getElementById('periodLabel').textContent = 'Données mises à jour quotidiennement - ' + data.lastUpdated;
             document.getElementById('totalMTD').textContent = fmt(data.totalMTD);
             document.getElementById('totalPrev').textContent = fmt(data.totalPrevious);
 
