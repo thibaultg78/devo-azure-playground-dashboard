@@ -523,6 +523,32 @@ body {
     animation: fadeIn 0.4s ease-out;
 }
 
+.statusbar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 32px;
+    background: var(--bg-card);
+    border-top: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    color: var(--text-muted);
+    gap: 6px;
+    z-index: 50;
+}
+
+.statusbar a {
+    color: var(--devo-red);
+    text-decoration: none;
+}
+
+.statusbar a:hover {
+    text-decoration: underline;
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;

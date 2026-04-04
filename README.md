@@ -13,13 +13,13 @@ Dashboard de suivi des coûts Azure pour l'environnement Playground de Devoteam 
 ## Architecture
 
 ```
-├── index.html                          # Dashboard (HTML + JS vanilla)
-├── css/styles.css                      # Styles avec variables CSS pour le theming
-├── data/costs.json                     # Données de coûts (généré automatiquement)
-├── img/devoteam-logo.png               # Logo Devoteam
-├── Generate-CostData.ps1               # Script PowerShell de collecte des coûts Azure
-├── .github/workflows/Generate-CostData.yml  # GitHub Actions (exécution quotidienne)
-└── CNAME                               # Domaine personnalisé GitHub Pages
+├── index.html                              # Dashboard (HTML + JS vanilla)
+├── css/styles.css                          # Styles avec variables CSS pour le theming
+├── data/costs.json                         # Données de coûts (généré automatiquement)
+├── img/devoteam-logo.png                   # Logo Devoteam
+├── Generate-CostData.ps1                   # Script PowerShell de collecte des coûts Azure
+├── .github/workflows/Generate-CostData.yml # GitHub Actions (exécution quotidienne)
+└── CNAME                                   # Domaine personnalisé GitHub Pages
 ```
 
 ## Flux de données
