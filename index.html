@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azure Playground — Cost Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+    <div class="pin-overlay" id="pinOverlay">
+        <div class="pin-box">
+            <div class="pin-logo">
+                <img src="img/devoteam-logo.png" alt="Devoteam">
+            </div>
+            <h2>Azure Playground</h2>
+            <p>Accès restreint — entrez votre code PIN</p>
+            <input class="pin-input" id="pinInput" type="password" maxlength="6" placeholder="••••" autofocus />
+            <p class="pin-hint" id="pinHint">Appuyez sur Entrée pour valider</p>
+        </div>
+    </div>
+
+    <header class="topbar">
+        <div class="topbar-brand">
+            <div class="topbar-logo">
+                <img src="img/devoteam-logo.png" alt="Devoteam">
+            </div>
+            <div>
+                <div class="topbar-title">Azure PlayGround</div>
+                <div class="topbar-subtitle">Cost Management Dashboard</div>
+            </div>
+        </div>
+        <div class="topbar-right">
+            <span class="last-updated" id="lastUpdated">Chargement...</span>
+            <button class="theme-toggle" id="themeToggle" title="Changer de thème">☀️</button>
+        </div>
+    </header>
+
+    <main class="main" id="dashboard" style="display:none">
+
+        <div class="page-header fade-in">
+            <h1>Vue des coûts — Month to Date</h1>
+            <p id="periodLabel">Chargement...</p>
+        </div>
+
+        <div class="grid-3 fade-in">
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">Total MTD</span>
+                    <div class="card-icon red">💰</div>
+                </div>
+                <div class="stat-value" id="totalMTD">—</div>
+                <div class="stat-label">Toutes subscriptions confondues</div>
+                <div class="stat-delta neutral" id="totalDelta">—</div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">Mois précédent</span>
+                    <div class="card-icon blue">📅</div>
+                </div>
+                <div class="stat-value" id="totalPrev">—</div>
+                <div class="stat-label">Coût total du mois dernier</div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">Subscriptions actives</span>
+                    <div class="card-icon green">☁️</div>
+                </div>
+                <div class="stat-value" id="activeSubs">—</div>
+                <div class="stat-label">Avec coût &gt; 0 ce mois</div>
+            </div>
+        </div>
+
+        <div class="grid-2">
+            <div class="card fade-in">
+                <div class="card-header">
+                    <span class="card-title">Coût par Subscription</span>
+                    <div class="card-icon red">📊</div>
+                </div>
+                <div class="sub-list" id="subList">
+                    <div class="state-loading">
+                        <div class="spinner"></div>Chargement...
+                    </div>
+                </div>
+            </div>
+
+            <div class="card fade-in">
+                <div class="card-header">
+                    <span class="card-title">Top Resource Groups</span>
+                    <div class="card-icon orange">🏆</div>
+                </div>
+                <table class="rg-table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Resource Group</th>
+                            <th>Sub</th>
+                            <th style="text-align:right">Coût MTD</th>
+                        </tr>
+                    </thead>
+                    <tbody id="rgTable">
+                        <tr>
+                            <td colspan="4">
+                                <div class="state-loading">
+                                    <div class="spinner"></div>Chargement...
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </main>
+
+    <script>
+        const html = document.documentElement;
+        const themeToggle = document.getElementById('themeToggle');
+
+        function setTheme(theme) {
+            html.setAttribute('data-theme', theme);
+            themeToggle.textContent = theme === 'dark' ? '☀️' : '🌙';
+            localStorage.setItem('theme', theme);
+        }
+
+        themeToggle.addEventListener('click', () => {
+            setTheme(html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+        });
+
+        setTheme(localStorage.getItem('theme') || 'dark');
+
+        const PIN = "1204";
+        const pinInput = document.getElementById('pinInput');
+        const pinOverlay = document.getElementById('pinOverlay');
+        const pinHint = document.getElementById('pinHint');
+
+        pinInput.addEventListener('keydown', e => {
+            if (e.key === 'Enter') validatePin();
+        });
+
+        function validatePin() {
+            if (pinInput.value === PIN) {
+                pinOverlay.style.display = 'none';
+                document.getElementById('dashboard').style.display = 'block';
+                loadData();
+            } else {
+                pinInput.classList.add('error');
+                pinHint.textContent = 'Code incorrect — réessayez';
+                pinHint.classList.add('error-msg');
+                pinInput.value = '';
+                setTimeout(() => {
+                    pinInput.classList.remove('error');
+                    pinHint.textContent = 'Appuyez sur Entrée pour valider';
+                    pinHint.classList.remove('error-msg');
+                }, 1500);
+            }
+        }
+
+        function fmt(val) {
+            return '€' + val.toLocaleString('fr-FR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+        }
+
+        function deltaClass(d) {
+            return d > 0 ? 'up' : d < 0 ? 'down' : 'neutral';
+        }
+
+        function deltaLabel(d) {
+            return d > 0 ? `▲ +${d}%` : d < 0 ? `▼ ${d}%` : '— 0%';
+        }
+
+        async function loadData() {
+            try {
+                const res = await fetch('data/costs.json?t=' + Date.now());
+                if (!res.ok) throw new Error('HTTP ' + res.status);
+                render(await res.json());
+            } catch (e) {
+                document.getElementById('dashboard').innerHTML = `
+        <div style="text-align:center;padding:80px 24px;color:var(--text-secondary)">
+          <p style="font-size:32px;margin-bottom:12px">⚠️</p>
+          <p style="font-size:15px;font-weight:600;margin-bottom:6px">Impossible de charger les données</p>
+          <p style="font-size:12px;color:var(--text-muted)">${e.message}</p>
+        </div>`;
+            }
+        }
+
+        function render(data) {
+            document.getElementById('lastUpdated').textContent = 'Données au ' + data.lastUpdated;
+            document.getElementById('periodLabel').textContent = 'Données mises à jour quotidiennement — ' + data.lastUpdated;
+            document.getElementById('totalMTD').textContent = fmt(data.totalMTD);
+            document.getElementById('totalPrev').textContent = fmt(data.totalPrevious);
+
+            const deltaEl = document.getElementById('totalDelta');
+            deltaEl.textContent = deltaLabel(data.delta) + ' vs mois précédent';
+            deltaEl.className = 'stat-delta ' + deltaClass(data.delta);
+
+            document.getElementById('activeSubs').textContent =
+                data.subscriptions.filter(s => s.mtd > 0).length + ' / ' + data.subscriptions.length;
+
+            const maxCost = Math.max(...data.subscriptions.map(s => s.mtd), 1);
+            document.getElementById('subList').innerHTML = data.subscriptions
+                .sort((a, b) => b.mtd - a.mtd)
+                .map(s => {
+                    const pct = Math.round((s.mtd / maxCost) * 100);
+                    const sd = s.previous > 0 ? Math.round(((s.mtd - s.previous) / s.previous) * 100) : 0;
+                    return `<div class="sub-item">
+          <span class="sub-name">${s.name}</span>
+          <div class="sub-bar-wrap"><div class="sub-bar" style="width:${pct}%"></div></div>
+          <span class="sub-cost">${fmt(s.mtd)}</span>
+          <span class="sub-delta ${deltaClass(sd)}">${sd > 0 ? '+' : ''}${sd}%</span>
+        </div>`;
+                }).join('');
+
+            document.getElementById('rgTable').innerHTML = data.topRGs.map((rg, i) => `
+      <tr>
+        <td><span class="rg-rank ${i < 3 ? 'top3' : ''}">${i + 1}</span></td>
+        <td style="font-weight:500">${rg.name}</td>
+        <td><span class="sub-badge">${rg.subscription}</span></td>
+        <td style="text-align:right;font-weight:700">${fmt(rg.cost)}</td>
+      </tr>`).join('');
+        }
+    </script>
+</body>
+
+</html>
