@@ -1,90 +1,90 @@
 {
-  "totalPrevious": 4595.37,
   "subscriptions": [
     {
-      "mtd": 1109.32,
-      "previous": 3627.0,
-      "name": "sub-idf-01"
+      "name": "sub-idf-01",
+      "mtd": 1220.54,
+      "previous": 3627.0
     },
     {
+      "name": "sub-lille-01",
       "mtd": 0.0,
-      "previous": 2.76,
-      "name": "sub-lille-01"
+      "previous": 2.76
     },
     {
-      "mtd": 130.74,
-      "previous": 901.22,
-      "name": "sub-lyon-01"
+      "name": "sub-lyon-01",
+      "mtd": 137.15,
+      "previous": 901.22
     },
     {
+      "name": "sub-marseille-01",
       "mtd": 0,
-      "previous": 0,
-      "name": "sub-marseille-01"
+      "previous": 0
     },
     {
-      "mtd": 9.11,
-      "previous": 64.39,
-      "name": "sub-nantes-01"
+      "name": "sub-nantes-01",
+      "mtd": 10.14,
+      "previous": 64.39
     },
     {
+      "name": "sub-temp-01",
       "mtd": 0,
-      "previous": 0.0,
-      "name": "sub-temp-01"
+      "previous": 0.0
     }
   ],
+  "lastUpdated": "2026-04-11 07:03",
+  "totalPrevious": 4595.37,
   "topRGs": [
     {
-      "cost": 270.34,
-      "name": "rg-fabric-global",
-      "subscription": "sub-idf-01"
+      "cost": 292.62,
+      "subscription": "sub-idf-01",
+      "name": "rg-fabric-global"
     },
     {
-      "cost": 213.21,
-      "name": "rg-moussa-aboubakar",
-      "subscription": "sub-idf-01"
+      "cost": 236.27,
+      "subscription": "sub-idf-01",
+      "name": "rg-moussa-aboubakar"
     },
     {
-      "cost": 94.38,
-      "name": "databricks_demo",
-      "subscription": "sub-lyon-01"
+      "cost": 98.79,
+      "subscription": "sub-lyon-01",
+      "name": "databricks_demo"
     },
     {
-      "cost": 84.95,
-      "name": "rg-nassim-laidi",
-      "subscription": "sub-idf-01"
+      "cost": 93.96,
+      "subscription": "sub-idf-01",
+      "name": "rg-nassim-laidi"
     },
     {
-      "cost": 74.84,
-      "name": "rg-taoufik-mellah",
-      "subscription": "sub-idf-01"
+      "cost": 82.24,
+      "subscription": "sub-idf-01",
+      "name": "rg-taoufik-mellah"
     },
     {
-      "cost": 71.06,
-      "name": "rg-lydia-arezki",
-      "subscription": "sub-idf-01"
+      "cost": 80.19,
+      "subscription": "sub-idf-01",
+      "name": "rg-lydia-arezki"
     },
     {
-      "cost": 63.58,
-      "name": "rg-nicolas-bedikian",
-      "subscription": "sub-idf-01"
+      "cost": 70.29,
+      "subscription": "sub-idf-01",
+      "name": "rg-nicolas-bedikian"
     },
     {
-      "cost": 45.66,
-      "name": "rg-samir-laissaoui",
-      "subscription": "sub-idf-01"
+      "cost": 45.72,
+      "subscription": "sub-idf-01",
+      "name": "rg-samir-laissaoui"
     },
     {
-      "cost": 39.09,
-      "name": "rg-sylvain-pages",
-      "subscription": "sub-idf-01"
+      "cost": 43.2,
+      "subscription": "sub-idf-01",
+      "name": "rg-sylvain-pages"
     },
     {
-      "cost": 37.92,
-      "name": "rg-jonathan-bibinet",
-      "subscription": "sub-idf-01"
+      "cost": 39.94,
+      "subscription": "sub-idf-01",
+      "name": "rg-jonathan-bibinet"
     }
   ],
-  "lastUpdated": "2026-04-10 07:44",
-  "totalMTD": 1249.17,
-  "delta": -72.8
+  "totalMTD": 1367.83,
+  "delta": -70.2
 }
