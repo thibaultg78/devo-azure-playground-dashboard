@@ -1,90 +1,90 @@
 {
-  "delta": -62.8,
-  "subscriptions": [
-    {
-      "mtd": 1536.47,
-      "previous": 3627.0,
-      "name": "sub-idf-01"
-    },
-    {
-      "mtd": 0.0,
-      "previous": 2.76,
-      "name": "sub-lille-01"
-    },
-    {
-      "mtd": 156.9,
-      "previous": 901.22,
-      "name": "sub-lyon-01"
-    },
-    {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-marseille-01"
-    },
-    {
-      "mtd": 14.07,
-      "previous": 64.39,
-      "name": "sub-nantes-01"
-    },
-    {
-      "mtd": 0,
-      "previous": 0.0,
-      "name": "sub-temp-01"
-    }
-  ],
-  "totalMTD": 1707.44,
   "topRGs": [
     {
+      "name": "rg-moussa-aboubakar",
       "subscription": "sub-idf-01",
-      "cost": 319.18,
-      "name": "rg-fabric-global"
+      "cost": 337.18
     },
     {
+      "name": "rg-fabric-global",
       "subscription": "sub-idf-01",
-      "cost": 312.4,
-      "name": "rg-moussa-aboubakar"
+      "cost": 332.79
     },
     {
+      "name": "rg-nassim-laidi",
       "subscription": "sub-idf-01",
-      "cost": 122.89,
-      "name": "rg-nassim-laidi"
+      "cost": 132.28
     },
     {
+      "name": "rg-lydia-arezki",
+      "subscription": "sub-idf-01",
+      "cost": 118.7
+    },
+    {
+      "name": "databricks_demo",
       "subscription": "sub-lyon-01",
-      "cost": 112.15,
-      "name": "databricks_demo"
+      "cost": 116.57
     },
     {
+      "name": "rg-taoufik-mellah",
       "subscription": "sub-idf-01",
-      "cost": 109.17,
-      "name": "rg-lydia-arezki"
+      "cost": 113.42
     },
     {
+      "name": "rg-nicolas-bedikian",
       "subscription": "sub-idf-01",
-      "cost": 105.71,
-      "name": "rg-taoufik-mellah"
+      "cost": 98.58
     },
     {
+      "name": "rg-marouan-boulahtouf",
       "subscription": "sub-idf-01",
-      "cost": 91.58,
-      "name": "rg-nicolas-bedikian"
+      "cost": 79.09
     },
     {
+      "name": "rg-sylvain-pages",
       "subscription": "sub-idf-01",
-      "cost": 68.62,
-      "name": "rg-marouan-boulahtouf"
+      "cost": 60.52
     },
     {
+      "name": "rg-jonathan-bibinet",
       "subscription": "sub-idf-01",
-      "cost": 56.23,
-      "name": "rg-sylvain-pages"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 48.0,
-      "name": "rg-jonathan-bibinet"
+      "cost": 59.38
     }
   ],
-  "totalPrevious": 4595.37,
-  "lastUpdated": "2026-04-14 07:49"
+  "delta": -60.0,
+  "subscriptions": [
+    {
+      "name": "sub-idf-01",
+      "previous": 3627.0,
+      "mtd": 1658.22
+    },
+    {
+      "name": "sub-lille-01",
+      "previous": 2.76,
+      "mtd": 0.0
+    },
+    {
+      "name": "sub-lyon-01",
+      "previous": 901.22,
+      "mtd": 163.42
+    },
+    {
+      "name": "sub-marseille-01",
+      "previous": 0,
+      "mtd": 0
+    },
+    {
+      "name": "sub-nantes-01",
+      "previous": 64.39,
+      "mtd": 15.36
+    },
+    {
+      "name": "sub-temp-01",
+      "previous": 0.0,
+      "mtd": 0
+    }
+  ],
+  "lastUpdated": "2026-04-15 07:49",
+  "totalMTD": 1837.0,
+  "totalPrevious": 4595.37
 }
