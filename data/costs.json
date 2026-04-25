@@ -2,7 +2,7 @@
   "subscriptions": [
     {
       "previous": 3627.0,
-      "mtd": 2430.38,
+      "mtd": 2558.92,
       "name": "sub-idf-01"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "previous": 901.22,
-      "mtd": 226.18,
+      "mtd": 236.05,
       "name": "sub-lyon-01"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "previous": 64.39,
-      "mtd": 30.34,
+      "mtd": 31.62,
       "name": "sub-nantes-01"
     },
     {
@@ -31,60 +31,60 @@
       "name": "sub-temp-01"
     }
   ],
+  "lastUpdated": "2026-04-25 07:20",
+  "totalPrevious": 4595.37,
+  "totalMTD": 2826.59,
   "topRGs": [
     {
-      "subscription": "sub-idf-01",
+      "cost": 510.31,
       "name": "rg-moussa-aboubakar",
-      "cost": 442.52
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
+      "cost": 435.87,
       "name": "rg-fabric-global",
-      "cost": 427.14
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
+      "cost": 227.49,
       "name": "rg-lydia-arezki",
-      "cost": 217.96
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
-      "name": "rg-taoufik-mellah",
-      "cost": 177.56
-    },
-    {
-      "subscription": "sub-idf-01",
+      "cost": 178.65,
       "name": "rg-marouan-boulahtouf",
-      "cost": 168.79
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
+      "cost": 177.82,
+      "name": "rg-taoufik-mellah",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 168.58,
       "name": "rg-nicolas-bedikian",
-      "cost": 161.58
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-lyon-01",
+      "cost": 160.97,
       "name": "databricks_demo",
-      "cost": 156.46
+      "subscription": "sub-lyon-01"
     },
     {
-      "subscription": "sub-idf-01",
+      "cost": 146.53,
       "name": "rg-nassim-laidi",
-      "cost": 146.53
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
+      "cost": 103.2,
       "name": "rg-sylvain-pages",
-      "cost": 99.08
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
+      "cost": 94.5,
       "name": "rg-imade-bouziane",
-      "cost": 90.21
+      "subscription": "sub-idf-01"
     }
   ],
-  "lastUpdated": "2026-04-24 08:06",
-  "totalMTD": 2686.9,
-  "delta": -41.5,
-  "totalPrevious": 4595.37
+  "delta": -38.5
 }
