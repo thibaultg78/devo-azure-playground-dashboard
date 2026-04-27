@@ -1,90 +1,50 @@
 {
-  "lastUpdated": "2026-04-26 07:42",
-  "delta": -36.8,
-  "totalPrevious": 4595.37,
+  "lastUpdated": "2026-04-27 08:28",
+  "totalPrevious": 0.0,
+  "delta": 0,
+  "totalMTD": 0.0,
   "topRGs": [
     {
-      "cost": 511.18,
-      "subscription": "sub-idf-01",
-      "name": "rg-moussa-aboubakar"
+      "name": "rg-matthieu-reby",
+      "subscription": "sub-nantes-01",
+      "cost": 21.43
     },
     {
-      "cost": 444.61,
-      "subscription": "sub-idf-01",
-      "name": "rg-fabric-global"
-    },
-    {
-      "cost": 237.02,
-      "subscription": "sub-idf-01",
-      "name": "rg-lydia-arezki"
-    },
-    {
-      "cost": 188.5,
-      "subscription": "sub-idf-01",
-      "name": "rg-marouan-boulahtouf"
-    },
-    {
-      "cost": 178.08,
-      "subscription": "sub-idf-01",
-      "name": "rg-taoufik-mellah"
-    },
-    {
-      "cost": 175.58,
-      "subscription": "sub-idf-01",
-      "name": "rg-nicolas-bedikian"
-    },
-    {
-      "cost": 164.15,
-      "subscription": "sub-lyon-01",
-      "name": "databricks_demo"
-    },
-    {
-      "cost": 146.53,
-      "subscription": "sub-idf-01",
-      "name": "rg-nassim-laidi"
-    },
-    {
-      "cost": 107.65,
-      "subscription": "sub-idf-01",
-      "name": "rg-sylvain-pages"
-    },
-    {
-      "cost": 98.79,
-      "subscription": "sub-idf-01",
-      "name": "rg-imade-bouziane"
+      "name": "rg-alexandre-lesieur",
+      "subscription": "sub-nantes-01",
+      "cost": 12.76
     }
   ],
-  "totalMTD": 2903.03,
   "subscriptions": [
     {
-      "mtd": 2620.82,
+      "previous": 0,
       "name": "sub-idf-01",
-      "previous": 3627.0
+      "mtd": 0
     },
     {
-      "mtd": 0.0,
+      "previous": 0,
       "name": "sub-lille-01",
-      "previous": 2.76
+      "mtd": 0
     },
     {
-      "mtd": 249.33,
+      "previous": 0,
       "name": "sub-lyon-01",
-      "previous": 901.22
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "previous": 0,
       "name": "sub-marseille-01",
-      "previous": 0
+      "mtd": 0
     },
     {
-      "mtd": 32.88,
+      "previous": 0,
       "name": "sub-nantes-01",
-      "previous": 64.39
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "previous": 0.0,
       "name": "sub-temp-01",
-      "previous": 0.0
+      "mtd": 0
     }
   ]
 }
