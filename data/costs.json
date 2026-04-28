@@ -1,35 +1,75 @@
 {
-  "lastUpdated": "2026-04-27 08:28",
-  "totalPrevious": 0.0,
-  "delta": 0,
-  "totalMTD": 0.0,
   "topRGs": [
     {
-      "name": "rg-matthieu-reby",
-      "subscription": "sub-nantes-01",
-      "cost": 21.43
+      "name": "rg-moussa-aboubakar",
+      "subscription": "sub-idf-01",
+      "cost": 620.29
     },
     {
-      "name": "rg-alexandre-lesieur",
-      "subscription": "sub-nantes-01",
-      "cost": 12.76
+      "name": "rg-fabric-global",
+      "subscription": "sub-idf-01",
+      "cost": 463.23
+    },
+    {
+      "name": "rg-lydia-arezki",
+      "subscription": "sub-idf-01",
+      "cost": 252.5
+    },
+    {
+      "name": "rg-marouan-boulahtouf",
+      "subscription": "sub-idf-01",
+      "cost": 205.21
+    },
+    {
+      "name": "rg-nicolas-bedikian",
+      "subscription": "sub-idf-01",
+      "cost": 189.58
+    },
+    {
+      "name": "rg-taoufik-mellah",
+      "subscription": "sub-idf-01",
+      "cost": 178.61
+    },
+    {
+      "name": "rg-nassim-laidi",
+      "subscription": "sub-idf-01",
+      "cost": 146.53
+    },
+    {
+      "name": "rg-sylvain-pages",
+      "subscription": "sub-idf-01",
+      "cost": 116.21
+    },
+    {
+      "name": "rg-imade-bouziane",
+      "subscription": "sub-idf-01",
+      "cost": 107.27
+    },
+    {
+      "name": "rg-alexis-mohamed-kamano",
+      "subscription": "sub-idf-01",
+      "cost": 94.11
     }
   ],
+  "delta": -30.7,
+  "totalPrevious": 4530.98,
+  "totalMTD": 3139.98,
+  "lastUpdated": "2026-04-28 08:27",
   "subscriptions": [
     {
-      "previous": 0,
+      "previous": 3627.0,
       "name": "sub-idf-01",
-      "mtd": 0
+      "mtd": 2850.98
     },
     {
-      "previous": 0,
+      "previous": 2.76,
       "name": "sub-lille-01",
-      "mtd": 0
+      "mtd": 0.0
     },
     {
-      "previous": 0,
+      "previous": 901.22,
       "name": "sub-lyon-01",
-      "mtd": 0
+      "mtd": 289.0
     },
     {
       "previous": 0,
@@ -42,7 +82,7 @@
       "mtd": 0
     },
     {
-      "previous": 0.0,
+      "previous": 0,
       "name": "sub-temp-01",
       "mtd": 0
     }
