@@ -3,12 +3,12 @@
     {
       "name": "rg-moussa-aboubakar",
       "subscription": "sub-idf-01",
-      "cost": 620.29
+      "cost": 785.88
     },
     {
       "name": "rg-fabric-global",
       "subscription": "sub-idf-01",
-      "cost": 463.23
+      "cost": 477.09
     },
     {
       "name": "rg-lydia-arezki",
@@ -18,17 +18,17 @@
     {
       "name": "rg-marouan-boulahtouf",
       "subscription": "sub-idf-01",
-      "cost": 205.21
+      "cost": 205.98
     },
     {
       "name": "rg-nicolas-bedikian",
       "subscription": "sub-idf-01",
-      "cost": 189.58
+      "cost": 196.57
     },
     {
       "name": "rg-taoufik-mellah",
       "subscription": "sub-idf-01",
-      "cost": 178.61
+      "cost": 178.87
     },
     {
       "name": "rg-nassim-laidi",
@@ -38,53 +38,53 @@
     {
       "name": "rg-sylvain-pages",
       "subscription": "sub-idf-01",
-      "cost": 116.21
+      "cost": 120.51
     },
     {
       "name": "rg-imade-bouziane",
       "subscription": "sub-idf-01",
-      "cost": 107.27
+      "cost": 111.55
     },
     {
       "name": "rg-alexis-mohamed-kamano",
       "subscription": "sub-idf-01",
-      "cost": 94.11
+      "cost": 97.46
     }
   ],
-  "delta": -30.7,
-  "totalPrevious": 4530.98,
-  "totalMTD": 3139.98,
-  "lastUpdated": "2026-04-28 08:27",
   "subscriptions": [
     {
-      "previous": 3627.0,
+      "mtd": 3072.07,
       "name": "sub-idf-01",
-      "mtd": 2850.98
+      "previous": 3627.0
     },
     {
-      "previous": 2.76,
+      "mtd": 0.0,
       "name": "sub-lille-01",
-      "mtd": 0.0
+      "previous": 2.76
     },
     {
-      "previous": 901.22,
+      "mtd": 0,
       "name": "sub-lyon-01",
-      "mtd": 289.0
+      "previous": 0
     },
     {
-      "previous": 0,
+      "mtd": 0,
       "name": "sub-marseille-01",
-      "mtd": 0
+      "previous": 0
     },
     {
-      "previous": 0,
+      "mtd": 0,
       "name": "sub-nantes-01",
-      "mtd": 0
+      "previous": 0
     },
     {
-      "previous": 0,
+      "mtd": 0,
       "name": "sub-temp-01",
-      "mtd": 0
+      "previous": 0
     }
-  ]
+  ],
+  "totalPrevious": 3629.76,
+  "totalMTD": 3072.07,
+  "lastUpdated": "2026-04-29 08:21",
+  "delta": -15.4
 }
