@@ -1,90 +1,90 @@
 {
+  "lastUpdated": "2026-05-02 07:46",
   "topRGs": [
     {
-      "subscription": "sub-lyon-01",
+      "cost": 34.66,
+      "name": "rg-moussa-aboubakar",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 20.54,
       "name": "rg-ahe",
-      "cost": 2.24
+      "subscription": "sub-lyon-01"
     },
     {
-      "subscription": "sub-lyon-01",
+      "cost": 9.3,
+      "name": "rg-fabric-global",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 7.56,
+      "name": "rg-michel-bertrand-mama-toulou",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 7.47,
+      "name": "rg-nicolas-bedikian",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 5.27,
       "name": "rg-thibault-remy",
-      "cost": 0.4
+      "subscription": "sub-lyon-01"
     },
     {
-      "subscription": "sub-lyon-01",
-      "name": "cyberlake-grm",
-      "cost": 0.09
+      "cost": 4.75,
+      "name": "rg-sylvain-pages",
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-lyon-01",
-      "name": "databricks-rg-databricks-workplace-rf3udxvsa5kr6",
-      "cost": 0.09
+      "cost": 4.57,
+      "name": "rg-imade-bouziane",
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-nantes-01",
-      "name": "rg-alexandre-lesieur",
-      "cost": 0.05
-    },
-    {
-      "subscription": "sub-nantes-01",
-      "name": "rg-matthieu-reby",
-      "cost": 0.05
-    },
-    {
-      "subscription": "sub-lyon-01",
-      "name": "cyberlake-demo",
-      "cost": 0.0
-    },
-    {
-      "subscription": "sub-lyon-01",
-      "name": "databricks-rg-cyberlake_test_zerobus-clz7n3uh3u2gm",
-      "cost": 0.0
-    },
-    {
-      "subscription": "sub-lyon-01",
+      "cost": 4.34,
       "name": "databricks_demo",
-      "cost": 0.0
+      "subscription": "sub-lyon-01"
     },
     {
-      "subscription": "sub-lyon-01",
-      "name": "databricks_demo_mg",
-      "cost": 0.0
+      "cost": 3.37,
+      "name": "rg-alexis-mohamed-kamano",
+      "subscription": "sub-idf-01"
     }
   ],
-  "totalMTD": 24.11,
-  "totalPrevious": 3914.97,
-  "delta": -99.4,
-  "lastUpdated": "2026-05-01 08:13",
   "subscriptions": [
     {
-      "previous": 3491.14,
-      "mtd": 21.2,
-      "name": "sub-idf-01"
+      "name": "sub-idf-01",
+      "mtd": 89.17,
+      "previous": 3491.28
     },
     {
-      "previous": 0.0,
+      "name": "sub-lille-01",
+      "mtd": 0.0,
+      "previous": 0.0
+    },
+    {
+      "name": "sub-lyon-01",
+      "mtd": 32.47,
+      "previous": 384.93
+    },
+    {
+      "name": "sub-marseille-01",
       "mtd": 0,
-      "name": "sub-lille-01"
+      "previous": 0
     },
     {
-      "previous": 384.54,
-      "mtd": 2.81,
-      "name": "sub-lyon-01"
+      "name": "sub-nantes-01",
+      "mtd": 1.3,
+      "previous": 39.29
     },
     {
-      "previous": 0,
+      "name": "sub-temp-01",
       "mtd": 0,
-      "name": "sub-marseille-01"
-    },
-    {
-      "previous": 39.29,
-      "mtd": 0.1,
-      "name": "sub-nantes-01"
-    },
-    {
-      "previous": 0,
-      "mtd": 0,
-      "name": "sub-temp-01"
+      "previous": 0
     }
-  ]
+  ],
+  "delta": -96.9,
+  "totalMTD": 122.94,
+  "totalPrevious": 3915.5
 }
