@@ -1,39 +1,90 @@
 {
-  "totalPrevious": 0.0,
-  "lastUpdated": "2026-05-05 08:12",
-  "subscriptions": [
+  "lastUpdated": "2026-05-05 14:09",
+  "totalPrevious": 3491.28,
+  "delta": -88.7,
+  "topRGs": [
     {
-      "name": "sub-idf-01",
-      "previous": 0,
-      "mtd": 0
+      "subscription": "sub-idf-01",
+      "name": "rg-fabric-global",
+      "cost": 40.5
     },
     {
-      "name": "sub-lille-01",
-      "previous": 0,
-      "mtd": 0
+      "subscription": "sub-idf-01",
+      "name": "rg-moussa-aboubakar",
+      "cost": 40.26
     },
     {
-      "name": "sub-lyon-01",
-      "previous": 0,
-      "mtd": 0
+      "subscription": "sub-idf-01",
+      "name": "rg-michel-bertrand-mama-toulou",
+      "cost": 29.64
     },
     {
-      "name": "sub-marseille-01",
-      "previous": 0,
-      "mtd": 0
+      "subscription": "sub-idf-01",
+      "name": "rg-nicolas-bedikian",
+      "cost": 29.29
     },
     {
-      "name": "sub-nantes-01",
-      "previous": 0,
-      "mtd": 0
+      "subscription": "sub-idf-01",
+      "name": "rg-sylvain-pages",
+      "cost": 18.1
     },
     {
-      "name": "sub-temp-01",
-      "previous": 0,
-      "mtd": 0
+      "subscription": "sub-idf-01",
+      "name": "rg-imade-bouziane",
+      "cost": 17.94
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-taoufik-mellah",
+      "cost": 14.23
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-alexis-mohamed-kamano",
+      "cost": 13.24
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-jean-baptiste-martin",
+      "cost": 12.36
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-jonathan-bibinet",
+      "cost": 9.31
     }
   ],
-  "delta": 0,
-  "totalMTD": 0.0,
-  "topRGs": null
+  "totalMTD": 395.11,
+  "subscriptions": [
+    {
+      "previous": 3491.28,
+      "name": "sub-idf-01",
+      "mtd": 266.44
+    },
+    {
+      "previous": 0.0,
+      "name": "sub-lille-01",
+      "mtd": 0.0
+    },
+    {
+      "previous": 0,
+      "name": "sub-lyon-01",
+      "mtd": 128.67
+    },
+    {
+      "previous": 0,
+      "name": "sub-marseille-01",
+      "mtd": 0
+    },
+    {
+      "previous": 0,
+      "name": "sub-nantes-01",
+      "mtd": 0
+    },
+    {
+      "previous": 0,
+      "name": "sub-temp-01",
+      "mtd": 0
+    }
+  ]
 }
