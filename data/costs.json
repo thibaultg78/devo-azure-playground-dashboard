@@ -1,90 +1,39 @@
 {
-  "delta": -94.4,
-  "totalPrevious": 3491.28,
-  "lastUpdated": "2026-05-04 08:31",
-  "totalMTD": 196.04,
+  "totalPrevious": 0.0,
+  "lastUpdated": "2026-05-05 08:12",
   "subscriptions": [
     {
-      "mtd": 196.04,
-      "previous": 3491.28,
-      "name": "sub-idf-01"
+      "name": "sub-idf-01",
+      "previous": 0,
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-lille-01",
       "previous": 0,
-      "name": "sub-lille-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-lyon-01",
       "previous": 0,
-      "name": "sub-lyon-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-marseille-01",
       "previous": 0,
-      "name": "sub-marseille-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-nantes-01",
       "previous": 0,
-      "name": "sub-nantes-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-temp-01",
       "previous": 0,
-      "name": "sub-temp-01"
+      "mtd": 0
     }
   ],
-  "topRGs": [
-    {
-      "subscription": "sub-idf-01",
-      "cost": 36.57,
-      "name": "rg-moussa-aboubakar"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 26.48,
-      "name": "rg-fabric-global"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 21.5,
-      "name": "rg-michel-bertrand-mama-toulou"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 21.25,
-      "name": "rg-nicolas-bedikian"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 13.02,
-      "name": "rg-imade-bouziane"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 13.01,
-      "name": "rg-sylvain-pages"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 9.95,
-      "name": "rg-alexis-mohamed-kamano"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 9.74,
-      "name": "rg-taoufik-mellah"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 8.93,
-      "name": "rg-jean-baptiste-martin"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 6.39,
-      "name": "rg-jonathan-bibinet"
-    }
-  ]
+  "delta": 0,
+  "totalMTD": 0.0,
+  "topRGs": null
 }
