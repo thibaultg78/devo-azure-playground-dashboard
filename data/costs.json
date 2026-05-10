@@ -1,90 +1,90 @@
 {
-  "totalPrevious": 3915.5,
+  "lastUpdated": "2026-05-10 08:09",
   "subscriptions": [
     {
-      "name": "sub-idf-01",
       "previous": 3491.28,
-      "mtd": 640.89
+      "mtd": 703.4,
+      "name": "sub-idf-01"
     },
     {
-      "name": "sub-lille-01",
       "previous": 0.0,
-      "mtd": 0.0
+      "mtd": 0.0,
+      "name": "sub-lille-01"
     },
     {
-      "name": "sub-lyon-01",
       "previous": 384.93,
-      "mtd": 225.93
+      "mtd": 248.62,
+      "name": "sub-lyon-01"
     },
     {
-      "name": "sub-marseille-01",
       "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "name": "sub-marseille-01"
     },
     {
-      "name": "sub-nantes-01",
       "previous": 39.29,
-      "mtd": 9.48
+      "mtd": 10.68,
+      "name": "sub-nantes-01"
     },
     {
-      "name": "sub-temp-01",
       "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "name": "sub-temp-01"
     }
   ],
   "topRGs": [
     {
-      "name": "rg-ahe",
-      "cost": 150.0,
-      "subscription": "sub-lyon-01"
+      "cost": 166.27,
+      "subscription": "sub-lyon-01",
+      "name": "rg-ahe"
     },
     {
-      "name": "rg-fabric-global",
-      "cost": 116.83,
-      "subscription": "sub-idf-01"
+      "cost": 125.42,
+      "subscription": "sub-idf-01",
+      "name": "rg-fabric-global"
     },
     {
-      "name": "rg-idriss-elatrech-kratima",
       "cost": 96.36,
-      "subscription": "sub-idf-01"
+      "subscription": "sub-idf-01",
+      "name": "rg-idriss-elatrech-kratima"
     },
     {
-      "name": "rg-moussa-aboubakar",
-      "cost": 56.71,
-      "subscription": "sub-idf-01"
+      "cost": 62.59,
+      "subscription": "sub-idf-01",
+      "name": "rg-nicolas-bedikian"
     },
     {
-      "name": "rg-nicolas-bedikian",
-      "cost": 55.7,
-      "subscription": "sub-idf-01"
+      "cost": 59.74,
+      "subscription": "sub-idf-01",
+      "name": "rg-moussa-aboubakar"
     },
     {
-      "name": "rg-michel-bertrand-mama-toulou",
-      "cost": 44.31,
-      "subscription": "sub-idf-01"
+      "cost": 46.89,
+      "subscription": "sub-idf-01",
+      "name": "rg-bienvenu-kenfack-demguia"
     },
     {
-      "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 36.51,
-      "subscription": "sub-idf-01"
+      "cost": 44.4,
+      "subscription": "sub-idf-01",
+      "name": "rg-michel-bertrand-mama-toulou"
     },
     {
-      "name": "databricks_demo",
-      "cost": 35.0,
-      "subscription": "sub-lyon-01"
+      "cost": 39.36,
+      "subscription": "sub-lyon-01",
+      "name": "databricks_demo"
     },
     {
-      "name": "rg-sylvain-pages",
-      "cost": 34.27,
-      "subscription": "sub-idf-01"
+      "cost": 38.49,
+      "subscription": "sub-idf-01",
+      "name": "rg-sylvain-pages"
     },
     {
-      "name": "rg-imade-bouziane",
-      "cost": 34.03,
-      "subscription": "sub-idf-01"
+      "cost": 38.23,
+      "subscription": "sub-idf-01",
+      "name": "rg-imade-bouziane"
     }
   ],
-  "delta": -77.6,
-  "totalMTD": 876.3,
-  "lastUpdated": "2026-05-09 07:58"
+  "totalMTD": 962.7,
+  "totalPrevious": 3915.5,
+  "delta": -75.4
 }
