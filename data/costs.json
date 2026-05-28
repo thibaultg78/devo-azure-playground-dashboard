@@ -1,89 +1,89 @@
 {
-  "delta": -30.1,
-  "totalPrevious": 3915.5,
-  "totalMTD": 2735.69,
+  "totalMTD": 2771.27,
   "subscriptions": [
     {
       "previous": 3491.28,
-      "mtd": 2088.09,
-      "name": "sub-idf-01"
+      "name": "sub-idf-01",
+      "mtd": 2149.75
     },
     {
       "previous": 0.0,
-      "mtd": 0.0,
-      "name": "sub-lille-01"
+      "name": "sub-lille-01",
+      "mtd": 0.0
     },
     {
       "previous": 384.93,
-      "mtd": 616.92,
-      "name": "sub-lyon-01"
+      "name": "sub-lyon-01",
+      "mtd": 621.52
     },
     {
       "previous": 0,
-      "mtd": 0,
-      "name": "sub-marseille-01"
-    },
-    {
-      "previous": 39.29,
-      "mtd": 30.68,
-      "name": "sub-nantes-01"
+      "name": "sub-marseille-01",
+      "mtd": 0
     },
     {
       "previous": 0,
-      "mtd": 0,
-      "name": "sub-temp-01"
+      "name": "sub-nantes-01",
+      "mtd": 0
+    },
+    {
+      "previous": 0,
+      "name": "sub-temp-01",
+      "mtd": 0
     }
   ],
-  "lastUpdated": "2026-05-27 09:53",
+  "totalPrevious": 3876.21,
+  "delta": -28.5,
+  "lastUpdated": "2026-05-28 10:04",
   "topRGs": [
     {
-      "cost": 419.05,
       "name": "rg-ahe",
+      "cost": 421.55,
       "subscription": "sub-lyon-01"
     },
     {
-      "cost": 290.41,
       "name": "rg-fabric-global",
+      "cost": 297.97,
       "subscription": "sub-idf-01"
     },
     {
-      "cost": 223.84,
       "name": "rg-bienvenu-kenfack-demguia",
+      "cost": 233.79,
       "subscription": "sub-idf-01"
     },
     {
-      "cost": 196.84,
       "name": "rg-nassim-laidi",
+      "cost": 197.46,
       "subscription": "sub-idf-01"
     },
     {
-      "cost": 180.32,
       "name": "rg-nicolas-bedikian",
+      "cost": 186.92,
       "subscription": "sub-idf-01"
     },
     {
-      "cost": 119.76,
       "name": "rg-imade-bouziane",
+      "cost": 123.58,
       "subscription": "sub-idf-01"
     },
     {
-      "cost": 118.52,
       "name": "databricks_demo",
+      "cost": 118.57,
       "subscription": "sub-lyon-01"
     },
     {
-      "cost": 111.48,
-      "name": "rg-moussa-aboubakar",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 110.55,
       "name": "rg-sylvain-pages",
+      "cost": 114.59,
       "subscription": "sub-idf-01"
     },
     {
-      "cost": 105.19,
+      "name": "rg-moussa-aboubakar",
+      "cost": 114.39,
+      "subscription": "sub-idf-01"
+    },
+    {
       "name": "rg-taoufik-mellah",
+      "cost": 109.24,
       "subscription": "sub-idf-01"
     }
   ]
