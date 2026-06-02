@@ -1,39 +1,39 @@
 {
-  "topRGs": null,
+  "delta": -96.6,
   "subscriptions": [
     {
       "name": "sub-idf-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 2397.03,
+      "mtd": 80.76
     },
     {
       "name": "sub-lille-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-lyon-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-marseille-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-nantes-01",
-      "mtd": 0.33,
-      "previous": 35.18
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-temp-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     }
   ],
-  "totalPrevious": 35.18,
-  "totalMTD": 0.33,
-  "delta": -99.1,
-  "lastUpdated": "2026-06-01 11:37"
+  "totalPrevious": 2397.03,
+  "lastUpdated": "2026-06-02 10:26",
+  "totalMTD": 80.76,
+  "topRGs": null
 }
