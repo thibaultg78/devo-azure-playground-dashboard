@@ -1,73 +1,23 @@
 {
-  "lastUpdated": "2026-06-05 07:17",
-  "topRGs": [
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 44.23
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-fabric-global",
-      "cost": 41.14
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-nicolas-bedikian",
-      "cost": 28.32
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-taoufik-mellah",
-      "cost": 17.84
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-sylvain-pages",
-      "cost": 17.51
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-imade-bouziane",
-      "cost": 17.24
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-alexis-mohamed-kamano",
-      "cost": 14.88
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-jean-baptiste-martin",
-      "cost": 13.65
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-moussa-aboubakar",
-      "cost": 12.48
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-jonathan-bibinet",
-      "cost": 10.22
-    }
-  ],
-  "totalPrevious": 2397.03,
+  "totalPrevious": 3223.77,
+  "delta": -90.1,
+  "totalMTD": 317.76,
+  "lastUpdated": "2026-06-05 09:53",
   "subscriptions": [
     {
-      "mtd": 274.99,
+      "mtd": 279.34,
       "name": "sub-idf-01",
       "previous": 2397.03
     },
     {
-      "mtd": 0,
+      "mtd": 0.0,
       "name": "sub-lille-01",
-      "previous": 0
+      "previous": 0.0
     },
     {
-      "mtd": 0,
+      "mtd": 30.28,
       "name": "sub-lyon-01",
-      "previous": 0
+      "previous": 790.39
     },
     {
       "mtd": 0,
@@ -75,9 +25,9 @@
       "previous": 0
     },
     {
-      "mtd": 0,
+      "mtd": 8.14,
       "name": "sub-nantes-01",
-      "previous": 0
+      "previous": 36.35
     },
     {
       "mtd": 0,
@@ -85,6 +35,56 @@
       "previous": 0
     }
   ],
-  "totalMTD": 274.99,
-  "delta": -88.5
+  "topRGs": [
+    {
+      "cost": 45.16,
+      "subscription": "sub-idf-01",
+      "name": "rg-bienvenu-kenfack-demguia"
+    },
+    {
+      "cost": 41.17,
+      "subscription": "sub-idf-01",
+      "name": "rg-fabric-global"
+    },
+    {
+      "cost": 28.9,
+      "subscription": "sub-idf-01",
+      "name": "rg-nicolas-bedikian"
+    },
+    {
+      "cost": 18.26,
+      "subscription": "sub-idf-01",
+      "name": "rg-taoufik-mellah"
+    },
+    {
+      "cost": 17.87,
+      "subscription": "sub-idf-01",
+      "name": "rg-sylvain-pages"
+    },
+    {
+      "cost": 17.59,
+      "subscription": "sub-idf-01",
+      "name": "rg-imade-bouziane"
+    },
+    {
+      "cost": 14.88,
+      "subscription": "sub-idf-01",
+      "name": "rg-alexis-mohamed-kamano"
+    },
+    {
+      "cost": 13.93,
+      "subscription": "sub-idf-01",
+      "name": "rg-jean-baptiste-martin"
+    },
+    {
+      "cost": 12.7,
+      "subscription": "sub-idf-01",
+      "name": "rg-moussa-aboubakar"
+    },
+    {
+      "cost": 10.4,
+      "subscription": "sub-idf-01",
+      "name": "rg-jonathan-bibinet"
+    }
+  ]
 }
