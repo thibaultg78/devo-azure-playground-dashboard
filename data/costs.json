@@ -1,10 +1,9 @@
 {
+  "lastUpdated": "2026-06-08 10:58",
   "totalPrevious": 3223.77,
-  "delta": -77.9,
-  "lastUpdated": "2026-06-07 08:57",
   "subscriptions": [
     {
-      "mtd": 662.2,
+      "mtd": 718.05,
       "name": "sub-idf-01",
       "previous": 2397.03
     },
@@ -14,7 +13,7 @@
       "previous": 0.0
     },
     {
-      "mtd": 39.33,
+      "mtd": 43.04,
       "name": "sub-lyon-01",
       "previous": 790.39
     },
@@ -24,7 +23,7 @@
       "previous": 0
     },
     {
-      "mtd": 10.53,
+      "mtd": 11.76,
       "name": "sub-nantes-01",
       "previous": 36.35
     },
@@ -34,57 +33,58 @@
       "previous": 0
     }
   ],
+  "delta": -76.0,
+  "totalMTD": 772.85,
   "topRGs": [
     {
+      "subscription": "sub-idf-01",
       "name": "rg-hicham-tazi",
-      "cost": 270.56,
-      "subscription": "sub-idf-01"
+      "cost": 270.56
     },
     {
+      "subscription": "sub-idf-01",
       "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 66.62,
-      "subscription": "sub-idf-01"
+      "cost": 77.33
     },
     {
+      "subscription": "sub-idf-01",
       "name": "rg-nicolas-bedikian",
-      "cost": 42.77,
-      "subscription": "sub-idf-01"
+      "cost": 49.71
     },
     {
+      "subscription": "sub-idf-01",
       "name": "rg-fabric-global",
-      "cost": 41.96,
-      "subscription": "sub-idf-01"
+      "cost": 42.35
     },
     {
+      "subscription": "sub-idf-01",
       "name": "rg-taoufik-mellah",
-      "cost": 28.74,
-      "subscription": "sub-idf-01"
+      "cost": 33.98
     },
     {
+      "subscription": "sub-idf-01",
       "name": "rg-sylvain-pages",
-      "cost": 26.19,
-      "subscription": "sub-idf-01"
+      "cost": 30.43
     },
     {
+      "subscription": "sub-idf-01",
       "name": "rg-imade-bouziane",
-      "cost": 26.04,
-      "subscription": "sub-idf-01"
+      "cost": 30.25
     },
     {
+      "subscription": "sub-idf-01",
       "name": "rg-alexis-mohamed-kamano",
-      "cost": 22.4,
-      "subscription": "sub-idf-01"
+      "cost": 26.36
     },
     {
+      "subscription": "sub-idf-01",
       "name": "rg-jean-baptiste-martin",
-      "cost": 20.69,
-      "subscription": "sub-idf-01"
+      "cost": 24.03
     },
     {
+      "subscription": "sub-idf-01",
       "name": "rg-moussa-aboubakar",
-      "cost": 18.81,
-      "subscription": "sub-idf-01"
+      "cost": 21.85
     }
-  ],
-  "totalMTD": 712.06
+  ]
 }
