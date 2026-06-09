@@ -1,90 +1,39 @@
 {
-  "lastUpdated": "2026-06-08 10:58",
-  "totalPrevious": 3223.77,
+  "topRGs": null,
   "subscriptions": [
     {
-      "mtd": 718.05,
       "name": "sub-idf-01",
-      "previous": 2397.03
-    },
-    {
-      "mtd": 0.0,
-      "name": "sub-lille-01",
-      "previous": 0.0
-    },
-    {
-      "mtd": 43.04,
-      "name": "sub-lyon-01",
-      "previous": 790.39
-    },
-    {
       "mtd": 0,
-      "name": "sub-marseille-01",
       "previous": 0
     },
     {
-      "mtd": 11.76,
-      "name": "sub-nantes-01",
-      "previous": 36.35
+      "name": "sub-lille-01",
+      "mtd": 0,
+      "previous": 0
     },
     {
+      "name": "sub-lyon-01",
       "mtd": 0,
+      "previous": 0
+    },
+    {
+      "name": "sub-marseille-01",
+      "mtd": 0,
+      "previous": 0
+    },
+    {
+      "name": "sub-nantes-01",
+      "mtd": 0,
+      "previous": 0
+    },
+    {
       "name": "sub-temp-01",
+      "mtd": 0,
       "previous": 0
     }
   ],
-  "delta": -76.0,
-  "totalMTD": 772.85,
-  "topRGs": [
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-hicham-tazi",
-      "cost": 270.56
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 77.33
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-nicolas-bedikian",
-      "cost": 49.71
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-fabric-global",
-      "cost": 42.35
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-taoufik-mellah",
-      "cost": 33.98
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-sylvain-pages",
-      "cost": 30.43
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-imade-bouziane",
-      "cost": 30.25
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-alexis-mohamed-kamano",
-      "cost": 26.36
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-jean-baptiste-martin",
-      "cost": 24.03
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-moussa-aboubakar",
-      "cost": 21.85
-    }
-  ]
+  "totalMTD": 0.0,
+  "delta": 0,
+  "totalPrevious": 0.0,
+  "lastUpdated": "2026-06-09 09:46"
 }
