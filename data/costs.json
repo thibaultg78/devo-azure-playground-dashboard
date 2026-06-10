@@ -1,39 +1,90 @@
 {
-  "topRGs": null,
+  "lastUpdated": "2026-06-10 10:03",
+  "topRGs": [
+    {
+      "cost": 340.57,
+      "name": "rg-hicham-tazi",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 98.81,
+      "name": "rg-bienvenu-kenfack-demguia",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 63.58,
+      "name": "rg-nicolas-bedikian",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 52.68,
+      "name": "rg-fabric-global",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 44.61,
+      "name": "rg-taoufik-mellah",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 38.92,
+      "name": "rg-sylvain-pages",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 38.7,
+      "name": "rg-imade-bouziane",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 33.88,
+      "name": "rg-alexis-mohamed-kamano",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 30.71,
+      "name": "rg-jean-baptiste-martin",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 27.95,
+      "name": "rg-moussa-aboubakar",
+      "subscription": "sub-idf-01"
+    }
+  ],
   "subscriptions": [
     {
       "name": "sub-idf-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 2397.03,
+      "mtd": 911.51
     },
     {
       "name": "sub-lille-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 0.0,
+      "mtd": 0.0
     },
     {
       "name": "sub-lyon-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 790.39,
+      "mtd": 50.69
     },
     {
       "name": "sub-marseille-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-nantes-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-temp-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     }
   ],
-  "totalMTD": 0.0,
-  "delta": 0,
-  "totalPrevious": 0.0,
-  "lastUpdated": "2026-06-09 09:46"
+  "totalPrevious": 3187.42,
+  "delta": -69.8,
+  "totalMTD": 962.2
 }
