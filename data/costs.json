@@ -1,20 +1,20 @@
 {
-  "delta": -60.2,
+  "totalMTD": 0.0,
   "subscriptions": [
     {
       "name": "sub-idf-01",
-      "previous": 2397.03,
-      "mtd": 1196.02
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-lille-01",
-      "previous": 0.0,
-      "mtd": 0.0
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-lyon-01",
-      "previous": 790.39,
-      "mtd": 66.28
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-marseille-01",
@@ -23,8 +23,8 @@
     },
     {
       "name": "sub-nantes-01",
-      "previous": 36.35,
-      "mtd": 20.82
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-temp-01",
@@ -32,59 +32,8 @@
       "mtd": 0
     }
   ],
-  "topRGs": [
-    {
-      "name": "rg-hicham-tazi",
-      "cost": 355.89,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 142.22,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-nicolas-bedikian",
-      "cost": 91.61,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-fabric-global",
-      "cost": 68.53,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-taoufik-mellah",
-      "cost": 66.56,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-imade-bouziane",
-      "cost": 57.06,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-sylvain-pages",
-      "cost": 56.25,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-alexis-mohamed-kamano",
-      "cost": 48.02,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-jean-baptiste-martin",
-      "cost": 44.2,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-moussa-aboubakar",
-      "cost": 40.28,
-      "subscription": "sub-idf-01"
-    }
-  ],
-  "totalPrevious": 3223.77,
-  "lastUpdated": "2026-06-14 09:36",
-  "totalMTD": 1283.12
+  "lastUpdated": "2026-06-15 12:17",
+  "topRGs": null,
+  "totalPrevious": 0.0,
+  "delta": 0
 }
