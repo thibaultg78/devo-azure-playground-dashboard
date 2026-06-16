@@ -1,39 +1,90 @@
 {
-  "totalMTD": 0.0,
+  "totalPrevious": 3223.77,
   "subscriptions": [
     {
       "name": "sub-idf-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 1321.94,
+      "previous": 2397.03
     },
     {
       "name": "sub-lille-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 0.0,
+      "previous": 0.0
     },
     {
       "name": "sub-lyon-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 73.77,
+      "previous": 790.39
     },
     {
       "name": "sub-marseille-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-nantes-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 23.4,
+      "previous": 36.35
     },
     {
       "name": "sub-temp-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "previous": 0
     }
   ],
-  "lastUpdated": "2026-06-15 12:17",
-  "topRGs": null,
-  "totalPrevious": 0.0,
-  "delta": 0
+  "topRGs": [
+    {
+      "name": "rg-hicham-tazi",
+      "subscription": "sub-idf-01",
+      "cost": 355.89
+    },
+    {
+      "name": "rg-bienvenu-kenfack-demguia",
+      "subscription": "sub-idf-01",
+      "cost": 163.23
+    },
+    {
+      "name": "rg-nicolas-bedikian",
+      "subscription": "sub-idf-01",
+      "cost": 105.19
+    },
+    {
+      "name": "rg-taoufik-mellah",
+      "subscription": "sub-idf-01",
+      "cost": 77.21
+    },
+    {
+      "name": "rg-fabric-global",
+      "subscription": "sub-idf-01",
+      "cost": 72.13
+    },
+    {
+      "name": "rg-imade-bouziane",
+      "subscription": "sub-idf-01",
+      "cost": 65.4
+    },
+    {
+      "name": "rg-sylvain-pages",
+      "subscription": "sub-idf-01",
+      "cost": 64.57
+    },
+    {
+      "name": "rg-alexis-mohamed-kamano",
+      "subscription": "sub-idf-01",
+      "cost": 55.16
+    },
+    {
+      "name": "rg-jean-baptiste-martin",
+      "subscription": "sub-idf-01",
+      "cost": 50.74
+    },
+    {
+      "name": "rg-nassim-laidi",
+      "subscription": "sub-idf-01",
+      "cost": 46.83
+    }
+  ],
+  "delta": -56.0,
+  "lastUpdated": "2026-06-16 11:12",
+  "totalMTD": 1419.11
 }
