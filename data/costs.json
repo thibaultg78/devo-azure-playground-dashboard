@@ -1,10 +1,8 @@
 {
-  "totalPrevious": 3223.77,
-  "lastUpdated": "2026-06-21 09:51",
   "subscriptions": [
     {
       "previous": 2397.03,
-      "mtd": 1656.37,
+      "mtd": 1723.96,
       "name": "sub-idf-01"
     },
     {
@@ -14,7 +12,7 @@
     },
     {
       "previous": 790.39,
-      "mtd": 120.22,
+      "mtd": 124.4,
       "name": "sub-lyon-01"
     },
     {
@@ -24,7 +22,7 @@
     },
     {
       "previous": 36.35,
-      "mtd": 30.87,
+      "mtd": 32.18,
       "name": "sub-nantes-01"
     },
     {
@@ -33,58 +31,60 @@
       "name": "sub-temp-01"
     }
   ],
-  "delta": -43.9,
-  "totalMTD": 1807.46,
+  "totalPrevious": 3223.77,
+  "totalMTD": 1880.54,
+  "lastUpdated": "2026-06-22 11:57",
   "topRGs": [
     {
+      "cost": 355.89,
       "subscription": "sub-idf-01",
-      "name": "rg-hicham-tazi",
-      "cost": 355.89
+      "name": "rg-hicham-tazi"
     },
     {
+      "cost": 228.55,
       "subscription": "sub-idf-01",
-      "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 216.91
+      "name": "rg-bienvenu-kenfack-demguia"
     },
     {
+      "cost": 147.39,
       "subscription": "sub-idf-01",
-      "name": "rg-nicolas-bedikian",
-      "cost": 139.87
+      "name": "rg-nicolas-bedikian"
     },
     {
+      "cost": 110.26,
       "subscription": "sub-idf-01",
-      "name": "rg-taoufik-mellah",
-      "cost": 104.38
+      "name": "rg-taoufik-mellah"
     },
     {
+      "cost": 99.03,
       "subscription": "sub-idf-01",
-      "name": "rg-fabric-global",
-      "cost": 89.93
+      "name": "rg-nassim-laidi"
     },
     {
+      "cost": 91.09,
       "subscription": "sub-idf-01",
-      "name": "rg-nassim-laidi",
-      "cost": 89.73
+      "name": "rg-imade-bouziane"
     },
     {
+      "cost": 90.36,
       "subscription": "sub-idf-01",
-      "name": "rg-imade-bouziane",
-      "cost": 86.51
+      "name": "rg-fabric-global"
     },
     {
+      "cost": 77.35,
       "subscription": "sub-idf-01",
-      "name": "rg-alexis-mohamed-kamano",
-      "cost": 73.78
+      "name": "rg-alexis-mohamed-kamano"
     },
     {
+      "cost": 73.73,
       "subscription": "sub-idf-01",
-      "name": "rg-sylvain-pages",
-      "cost": 73.72
+      "name": "rg-sylvain-pages"
     },
     {
+      "cost": 71.05,
       "subscription": "sub-idf-01",
-      "name": "rg-jean-baptiste-martin",
-      "cost": 67.44
+      "name": "rg-jean-baptiste-martin"
     }
-  ]
+  ],
+  "delta": -41.7
 }
