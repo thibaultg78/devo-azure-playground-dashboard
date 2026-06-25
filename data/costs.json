@@ -1,11 +1,8 @@
 {
-  "totalMTD": 2031.55,
-  "delta": -37.0,
-  "totalPrevious": 3223.77,
   "subscriptions": [
     {
       "previous": 2397.03,
-      "mtd": 1865.41,
+      "mtd": 1929.22,
       "name": "sub-idf-01"
     },
     {
@@ -15,7 +12,7 @@
     },
     {
       "previous": 790.39,
-      "mtd": 131.62,
+      "mtd": 135.58,
       "name": "sub-lyon-01"
     },
     {
@@ -25,7 +22,7 @@
     },
     {
       "previous": 36.35,
-      "mtd": 34.52,
+      "mtd": 35.88,
       "name": "sub-nantes-01"
     },
     {
@@ -34,57 +31,60 @@
       "name": "sub-temp-01"
     }
   ],
+  "lastUpdated": "2026-06-25 09:23",
   "topRGs": [
     {
-      "cost": 355.89,
       "subscription": "sub-idf-01",
+      "cost": 355.89,
       "name": "rg-hicham-tazi"
     },
     {
-      "cost": 249.13,
       "subscription": "sub-idf-01",
+      "cost": 259.82,
       "name": "rg-bienvenu-kenfack-demguia"
     },
     {
-      "cost": 160.68,
       "subscription": "sub-idf-01",
+      "cost": 167.62,
       "name": "rg-nicolas-bedikian"
     },
     {
-      "cost": 120.69,
       "subscription": "sub-idf-01",
+      "cost": 126.11,
       "name": "rg-taoufik-mellah"
     },
     {
-      "cost": 115.47,
       "subscription": "sub-idf-01",
+      "cost": 124.06,
       "name": "rg-nassim-laidi"
     },
     {
-      "cost": 99.17,
       "subscription": "sub-idf-01",
+      "cost": 103.39,
       "name": "rg-imade-bouziane"
     },
     {
-      "cost": 98.73,
       "subscription": "sub-idf-01",
+      "cost": 99.13,
       "name": "rg-fabric-global"
     },
     {
-      "cost": 84.48,
       "subscription": "sub-idf-01",
+      "cost": 88.05,
       "name": "rg-alexis-mohamed-kamano"
     },
     {
-      "cost": 77.45,
       "subscription": "sub-idf-01",
+      "cost": 80.79,
       "name": "rg-jean-baptiste-martin"
     },
     {
-      "cost": 73.76,
       "subscription": "sub-idf-01",
+      "cost": 73.77,
       "name": "rg-sylvain-pages"
     }
   ],
-  "lastUpdated": "2026-06-24 09:32"
+  "totalPrevious": 3223.77,
+  "delta": -34.8,
+  "totalMTD": 2100.68
 }
