@@ -1,90 +1,90 @@
 {
+  "totalPrevious": 3223.77,
+  "lastUpdated": "2026-06-27 08:37",
   "topRGs": [
     {
-      "subscription": "sub-idf-01",
       "name": "rg-hicham-tazi",
-      "cost": 355.89
+      "cost": 355.89,
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
       "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 270.6
+      "cost": 280.4,
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
       "name": "rg-nicolas-bedikian",
-      "cost": 174.55
+      "cost": 180.91,
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
       "name": "rg-nassim-laidi",
-      "cost": 132.64
+      "cost": 140.5,
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
       "name": "rg-taoufik-mellah",
-      "cost": 131.36
+      "cost": 136.18,
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
       "name": "rg-imade-bouziane",
-      "cost": 107.61
+      "cost": 111.48,
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
       "name": "rg-fabric-global",
-      "cost": 101.14
+      "cost": 105.05,
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
       "name": "rg-alexis-mohamed-kamano",
-      "cost": 91.75
+      "cost": 95.06,
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
       "name": "rg-jean-baptiste-martin",
-      "cost": 84.13
+      "cost": 87.19,
+      "subscription": "sub-idf-01"
     },
     {
-      "subscription": "sub-idf-01",
       "name": "rg-sylvain-pages",
-      "cost": 73.79
+      "cost": 73.8,
+      "subscription": "sub-idf-01"
     }
   ],
+  "delta": -30.6,
   "subscriptions": [
     {
-      "mtd": 1993.45,
       "name": "sub-idf-01",
-      "previous": 2397.03
+      "previous": 2397.03,
+      "mtd": 2054.51
     },
     {
-      "mtd": 0.0,
       "name": "sub-lille-01",
-      "previous": 0.0
+      "previous": 0.0,
+      "mtd": 0.0
     },
     {
-      "mtd": 139.28,
       "name": "sub-lyon-01",
-      "previous": 790.39
+      "previous": 790.39,
+      "mtd": 142.8
     },
     {
-      "mtd": 0,
       "name": "sub-marseille-01",
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     },
     {
-      "mtd": 38.68,
       "name": "sub-nantes-01",
-      "previous": 36.35
+      "previous": 36.35,
+      "mtd": 40.11
     },
     {
-      "mtd": 0,
       "name": "sub-temp-01",
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     }
   ],
-  "delta": -32.6,
-  "totalPrevious": 3223.77,
-  "totalMTD": 2171.41,
-  "lastUpdated": "2026-06-26 09:29"
+  "totalMTD": 2237.42
 }
