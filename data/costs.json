@@ -1,90 +1,50 @@
 {
-  "totalPrevious": 3223.77,
-  "lastUpdated": "2026-06-28 08:53",
-  "totalMTD": 2310.07,
+  "lastUpdated": "2026-06-29 11:02",
   "topRGs": [
     {
-      "name": "rg-hicham-tazi",
-      "cost": 355.89,
-      "subscription": "sub-idf-01"
+      "name": "rg-matthieu-reby",
+      "cost": 27.36,
+      "subscription": "sub-nantes-01"
     },
     {
-      "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 292.03,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-nicolas-bedikian",
-      "cost": 188.42,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-nassim-laidi",
-      "cost": 149.79,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-taoufik-mellah",
-      "cost": 141.87,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-imade-bouziane",
-      "cost": 116.05,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-fabric-global",
-      "cost": 105.48,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-alexis-mohamed-kamano",
-      "cost": 98.63,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-jean-baptiste-martin",
-      "cost": 90.81,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-pierre-chancrin",
-      "cost": 75.66,
-      "subscription": "sub-idf-01"
+      "name": "rg-alexandre-lesieur",
+      "cost": 15.26,
+      "subscription": "sub-nantes-01"
     }
   ],
+  "totalPrevious": 36.35,
+  "delta": 17.2,
+  "totalMTD": 42.62,
   "subscriptions": [
     {
       "name": "sub-idf-01",
-      "previous": 2397.03,
-      "mtd": 2121.72
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-lille-01",
-      "previous": 0.0,
-      "mtd": 0.0
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-lyon-01",
-      "previous": 790.39,
-      "mtd": 146.94
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-marseille-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-nantes-01",
-      "previous": 36.35,
-      "mtd": 41.41
+      "mtd": 42.62,
+      "previous": 36.35
     },
     {
       "name": "sub-temp-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "previous": 0
     }
-  ],
-  "delta": -28.3
+  ]
 }
