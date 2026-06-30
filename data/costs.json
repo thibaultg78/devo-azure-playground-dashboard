@@ -1,50 +1,90 @@
 {
-  "lastUpdated": "2026-06-29 11:02",
-  "topRGs": [
-    {
-      "name": "rg-matthieu-reby",
-      "cost": 27.36,
-      "subscription": "sub-nantes-01"
-    },
-    {
-      "name": "rg-alexandre-lesieur",
-      "cost": 15.26,
-      "subscription": "sub-nantes-01"
-    }
-  ],
-  "totalPrevious": 36.35,
-  "delta": 17.2,
-  "totalMTD": 42.62,
   "subscriptions": [
     {
-      "name": "sub-idf-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 2397.03,
+      "mtd": 2256.51,
+      "name": "sub-idf-01"
     },
     {
-      "name": "sub-lille-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 0.0,
+      "mtd": 0.0,
+      "name": "sub-lille-01"
     },
     {
-      "name": "sub-lyon-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 790.39,
+      "mtd": 157.77,
+      "name": "sub-lyon-01"
     },
     {
-      "name": "sub-marseille-01",
+      "previous": 0,
       "mtd": 0,
-      "previous": 0
+      "name": "sub-marseille-01"
     },
     {
-      "name": "sub-nantes-01",
-      "mtd": 42.62,
-      "previous": 36.35
+      "previous": 36.35,
+      "mtd": 43.83,
+      "name": "sub-nantes-01"
     },
     {
-      "name": "sub-temp-01",
+      "previous": 0,
       "mtd": 0,
-      "previous": 0
+      "name": "sub-temp-01"
     }
-  ]
+  ],
+  "totalMTD": 2458.11,
+  "totalPrevious": 3223.77,
+  "topRGs": [
+    {
+      "cost": 355.89,
+      "subscription": "sub-idf-01",
+      "name": "rg-hicham-tazi"
+    },
+    {
+      "cost": 313.5,
+      "subscription": "sub-idf-01",
+      "name": "rg-bienvenu-kenfack-demguia"
+    },
+    {
+      "cost": 202.3,
+      "subscription": "sub-idf-01",
+      "name": "rg-nicolas-bedikian"
+    },
+    {
+      "cost": 166.95,
+      "subscription": "sub-idf-01",
+      "name": "rg-nassim-laidi"
+    },
+    {
+      "cost": 152.37,
+      "subscription": "sub-idf-01",
+      "name": "rg-taoufik-mellah"
+    },
+    {
+      "cost": 124.5,
+      "subscription": "sub-idf-01",
+      "name": "rg-imade-bouziane"
+    },
+    {
+      "cost": 115.55,
+      "subscription": "sub-idf-01",
+      "name": "rg-fabric-global"
+    },
+    {
+      "cost": 105.9,
+      "subscription": "sub-idf-01",
+      "name": "rg-alexis-mohamed-kamano"
+    },
+    {
+      "cost": 97.41,
+      "subscription": "sub-idf-01",
+      "name": "rg-jean-baptiste-martin"
+    },
+    {
+      "cost": 87.53,
+      "subscription": "sub-idf-01",
+      "name": "rg-pierre-chancrin"
+    }
+  ],
+  "lastUpdated": "2026-06-30 09:38",
+  "delta": -23.8
 }
