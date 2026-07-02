@@ -1,90 +1,90 @@
 {
-  "lastUpdated": "2026-07-01 09:49",
-  "totalPrevious": 2313.15,
-  "delta": -99.5,
-  "totalMTD": 10.53,
+  "totalPrevious": 2519.75,
+  "subscriptions": [
+    {
+      "mtd": 76.95,
+      "name": "sub-idf-01",
+      "previous": 2313.15
+    },
+    {
+      "mtd": 0.0,
+      "name": "sub-lille-01",
+      "previous": 0.0
+    },
+    {
+      "mtd": 6.97,
+      "name": "sub-lyon-01",
+      "previous": 161.77
+    },
+    {
+      "mtd": 0,
+      "name": "sub-marseille-01",
+      "previous": 0
+    },
+    {
+      "mtd": 1.44,
+      "name": "sub-nantes-01",
+      "previous": 44.83
+    },
+    {
+      "mtd": 0,
+      "name": "sub-temp-01",
+      "previous": 0
+    }
+  ],
   "topRGs": [
     {
+      "cost": 13.18,
       "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 2.22,
       "subscription": "sub-idf-01"
     },
     {
+      "cost": 10.18,
       "name": "rg-nassim-laidi",
-      "cost": 1.43,
       "subscription": "sub-idf-01"
     },
     {
+      "cost": 8.26,
       "name": "rg-nicolas-bedikian",
-      "cost": 1.18,
       "subscription": "sub-idf-01"
     },
     {
+      "cost": 7.2,
       "name": "rg-pierre-chancrin",
-      "cost": 1.03,
       "subscription": "sub-idf-01"
     },
     {
+      "cost": 6.25,
       "name": "rg-taoufik-mellah",
-      "cost": 0.91,
       "subscription": "sub-idf-01"
     },
     {
+      "cost": 5.02,
       "name": "rg-imade-bouziane",
-      "cost": 0.72,
       "subscription": "sub-idf-01"
     },
     {
+      "cost": 3.97,
       "name": "rg-jean-baptiste-martin",
-      "cost": 0.57,
       "subscription": "sub-idf-01"
     },
     {
+      "cost": 3.86,
+      "name": "rg-alexis-mohamed-kamano",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 3.29,
+      "name": "rg-fabric-global",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 3.12,
       "name": "rg-jonathan-bibinet",
-      "cost": 0.35,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-apilash-varatharasa",
-      "cost": 0.31,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-samir-laissaoui",
-      "cost": 0.3,
       "subscription": "sub-idf-01"
     }
   ],
-  "subscriptions": [
-    {
-      "name": "sub-idf-01",
-      "previous": 2313.15,
-      "mtd": 10.53
-    },
-    {
-      "name": "sub-lille-01",
-      "previous": 0,
-      "mtd": 0
-    },
-    {
-      "name": "sub-lyon-01",
-      "previous": 0,
-      "mtd": 0
-    },
-    {
-      "name": "sub-marseille-01",
-      "previous": 0,
-      "mtd": 0
-    },
-    {
-      "name": "sub-nantes-01",
-      "previous": 0,
-      "mtd": 0
-    },
-    {
-      "name": "sub-temp-01",
-      "previous": 0,
-      "mtd": 0
-    }
-  ]
+  "delta": -96.6,
+  "lastUpdated": "2026-07-02 08:57",
+  "totalMTD": 85.36
 }
