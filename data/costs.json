@@ -1,90 +1,90 @@
 {
+  "totalMTD": 292.35,
+  "lastUpdated": "2026-07-05 08:53",
+  "delta": -88.4,
   "subscriptions": [
     {
+      "mtd": 268.03,
       "name": "sub-idf-01",
-      "mtd": 209.26,
       "previous": 2313.15
     },
     {
-      "name": "sub-lille-01",
       "mtd": 0.0,
+      "name": "sub-lille-01",
       "previous": 0.0
     },
     {
+      "mtd": 19.3,
       "name": "sub-lyon-01",
-      "mtd": 15.48,
       "previous": 161.77
     },
     {
-      "name": "sub-marseille-01",
       "mtd": 0,
+      "name": "sub-marseille-01",
       "previous": 0
     },
     {
+      "mtd": 5.02,
       "name": "sub-nantes-01",
-      "mtd": 3.85,
       "previous": 44.83
     },
     {
-      "name": "sub-temp-01",
       "mtd": 0,
+      "name": "sub-temp-01",
       "previous": 0
     }
   ],
-  "totalMTD": 228.59,
   "totalPrevious": 2519.75,
-  "delta": -90.9,
-  "lastUpdated": "2026-07-04 08:38",
   "topRGs": [
     {
+      "cost": 45.9,
       "name": "rg-bienvenu-kenfack-demguia",
-      "subscription": "sub-idf-01",
-      "cost": 35.01
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 36.42,
       "name": "rg-nassim-laidi",
-      "subscription": "sub-idf-01",
-      "cost": 27.68
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 29.49,
       "name": "rg-nicolas-bedikian",
-      "subscription": "sub-idf-01",
-      "cost": 22.41
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 25.68,
       "name": "rg-pierre-chancrin",
-      "subscription": "sub-idf-01",
-      "cost": 19.56
+      "subscription": "sub-idf-01"
     },
     {
-      "name": "rg-fabric-global",
-      "subscription": "sub-idf-01",
-      "cost": 18.48
-    },
-    {
+      "cost": 22.25,
       "name": "rg-taoufik-mellah",
-      "subscription": "sub-idf-01",
-      "cost": 16.91
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 18.88,
+      "name": "rg-fabric-global",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 17.94,
       "name": "rg-imade-bouziane",
-      "subscription": "sub-idf-01",
-      "cost": 13.63
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 14.19,
       "name": "rg-jean-baptiste-martin",
-      "subscription": "sub-idf-01",
-      "cost": 10.79
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 9.62,
       "name": "rg-jonathan-bibinet",
-      "subscription": "sub-idf-01",
-      "cost": 7.5
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 7.13,
       "name": "rg-ahe",
-      "subscription": "sub-lyon-01",
-      "cost": 5.46
+      "subscription": "sub-lyon-01"
     }
   ]
 }
