@@ -1,8 +1,10 @@
 {
+  "delta": -83.2,
+  "totalPrevious": 2474.92,
   "subscriptions": [
     {
       "name": "sub-idf-01",
-      "mtd": 327.27,
+      "mtd": 381.29,
       "previous": 2313.15
     },
     {
@@ -12,7 +14,7 @@
     },
     {
       "name": "sub-lyon-01",
-      "mtd": 23.19,
+      "mtd": 28.36,
       "previous": 161.77
     },
     {
@@ -22,8 +24,8 @@
     },
     {
       "name": "sub-nantes-01",
-      "mtd": 6.23,
-      "previous": 44.83
+      "mtd": 7.33,
+      "previous": 0
     },
     {
       "name": "sub-temp-01",
@@ -31,60 +33,58 @@
       "previous": 0
     }
   ],
-  "totalMTD": 356.69,
-  "delta": -85.8,
+  "totalMTD": 416.98,
   "topRGs": [
     {
       "name": "rg-bienvenu-kenfack-demguia",
-      "subscription": "sub-idf-01",
-      "cost": 56.82
+      "cost": 66.83,
+      "subscription": "sub-idf-01"
     },
     {
       "name": "rg-nassim-laidi",
-      "subscription": "sub-idf-01",
-      "cost": 45.18
+      "cost": 53.2,
+      "subscription": "sub-idf-01"
     },
     {
       "name": "rg-nicolas-bedikian",
-      "subscription": "sub-idf-01",
-      "cost": 36.56
+      "cost": 43.05,
+      "subscription": "sub-idf-01"
     },
     {
       "name": "rg-pierre-chancrin",
-      "subscription": "sub-idf-01",
-      "cost": 31.84
+      "cost": 37.49,
+      "subscription": "sub-idf-01"
     },
     {
       "name": "rg-taoufik-mellah",
-      "subscription": "sub-idf-01",
-      "cost": 27.56
+      "cost": 32.47,
+      "subscription": "sub-idf-01"
     },
     {
       "name": "rg-imade-bouziane",
-      "subscription": "sub-idf-01",
-      "cost": 22.25
-    },
-    {
-      "name": "rg-fabric-global",
-      "subscription": "sub-idf-01",
-      "cost": 19.28
+      "cost": 26.19,
+      "subscription": "sub-idf-01"
     },
     {
       "name": "rg-jean-baptiste-martin",
-      "subscription": "sub-idf-01",
-      "cost": 17.6
+      "cost": 20.72,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-fabric-global",
+      "cost": 19.65,
+      "subscription": "sub-idf-01"
     },
     {
       "name": "rg-jonathan-bibinet",
-      "subscription": "sub-idf-01",
-      "cost": 11.75
+      "cost": 13.7,
+      "subscription": "sub-idf-01"
     },
     {
       "name": "rg-ahe",
-      "subscription": "sub-lyon-01",
-      "cost": 8.84
+      "cost": 10.41,
+      "subscription": "sub-lyon-01"
     }
   ],
-  "lastUpdated": "2026-07-06 10:24",
-  "totalPrevious": 2519.75
+  "lastUpdated": "2026-07-07 09:42"
 }
