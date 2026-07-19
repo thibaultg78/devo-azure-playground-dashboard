@@ -1,46 +1,75 @@
 {
-  "delta": -54.8,
-  "lastUpdated": "2026-07-18 07:51",
-  "totalPrevious": 2519.75,
+  "subscriptions": [
+    {
+      "previous": 2313.15,
+      "name": "sub-idf-01",
+      "mtd": 1096.54
+    },
+    {
+      "previous": 0.0,
+      "name": "sub-lille-01",
+      "mtd": 0.0
+    },
+    {
+      "previous": 161.77,
+      "name": "sub-lyon-01",
+      "mtd": 79.61
+    },
+    {
+      "previous": 0,
+      "name": "sub-marseille-01",
+      "mtd": 0
+    },
+    {
+      "previous": 44.83,
+      "name": "sub-nantes-01",
+      "mtd": 24.42
+    },
+    {
+      "previous": 0,
+      "name": "sub-temp-01",
+      "mtd": 0
+    }
+  ],
   "topRGs": [
     {
       "subscription": "sub-idf-01",
-      "cost": 186.98,
+      "cost": 197.9,
       "name": "rg-bienvenu-kenfack-demguia"
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 149.5,
+      "cost": 158.25,
       "name": "rg-nassim-laidi"
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 120.9,
+      "cost": 127.97,
       "name": "rg-nicolas-bedikian"
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 105.25,
+      "cost": 111.45,
       "name": "rg-pierre-chancrin"
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 91.88,
+      "cost": 97.99,
       "name": "rg-taoufik-mellah"
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 73.53,
+      "cost": 77.84,
       "name": "rg-imade-bouziane"
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 53.27,
+      "cost": 53.67,
       "name": "rg-fabric-global"
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 38.32,
+      "cost": 40.44,
       "name": "rg-jonathan-bibinet"
     },
     {
@@ -50,41 +79,12 @@
     },
     {
       "subscription": "sub-lyon-01",
-      "cost": 29.22,
+      "cost": 30.98,
       "name": "rg-ahe"
     }
   ],
-  "totalMTD": 1138.72,
-  "subscriptions": [
-    {
-      "previous": 2313.15,
-      "mtd": 1039.98,
-      "name": "sub-idf-01"
-    },
-    {
-      "previous": 0.0,
-      "mtd": 0.0,
-      "name": "sub-lille-01"
-    },
-    {
-      "previous": 161.77,
-      "mtd": 75.59,
-      "name": "sub-lyon-01"
-    },
-    {
-      "previous": 0,
-      "mtd": 0,
-      "name": "sub-marseille-01"
-    },
-    {
-      "previous": 44.83,
-      "mtd": 23.15,
-      "name": "sub-nantes-01"
-    },
-    {
-      "previous": 0,
-      "mtd": 0,
-      "name": "sub-temp-01"
-    }
-  ]
+  "lastUpdated": "2026-07-19 08:20",
+  "totalPrevious": 2519.75,
+  "totalMTD": 1200.57,
+  "delta": -52.4
 }
