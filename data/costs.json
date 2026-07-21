@@ -1,90 +1,50 @@
 {
-  "delta": -50.0,
-  "totalPrevious": 2313.15,
-  "lastUpdated": "2026-07-20 09:15",
+  "delta": -39.2,
+  "lastUpdated": "2026-07-21 08:30",
   "subscriptions": [
     {
+      "previous": 0,
       "name": "sub-idf-01",
-      "previous": 2313.15,
-      "mtd": 1157.55
+      "mtd": 0
     },
     {
+      "previous": 0,
       "name": "sub-lille-01",
-      "previous": 0.0,
-      "mtd": 0.0
+      "mtd": 0
     },
     {
+      "previous": 0,
       "name": "sub-lyon-01",
-      "previous": 0,
       "mtd": 0
     },
     {
+      "previous": 0,
       "name": "sub-marseille-01",
-      "previous": 0,
       "mtd": 0
     },
     {
+      "previous": 44.83,
       "name": "sub-nantes-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 27.26
     },
     {
-      "name": "sub-temp-01",
       "previous": 0,
+      "name": "sub-temp-01",
       "mtd": 0
     }
   ],
+  "totalMTD": 27.26,
   "topRGs": [
     {
-      "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 209.72,
-      "subscription": "sub-idf-01"
+      "cost": 13.68,
+      "subscription": "sub-nantes-01",
+      "name": "rg-alexandre-lesieur"
     },
     {
-      "name": "rg-nassim-laidi",
-      "cost": 167.74,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-nicolas-bedikian",
-      "cost": 135.64,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-pierre-chancrin",
-      "cost": 118.13,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-taoufik-mellah",
-      "cost": 104.56,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-imade-bouziane",
-      "cost": 82.5,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-fabric-global",
-      "cost": 54.1,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-jonathan-bibinet",
-      "cost": 42.75,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-jean-baptiste-martin",
-      "cost": 32.58,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-apilash-varatharasa",
-      "cost": 30.47,
-      "subscription": "sub-idf-01"
+      "cost": 13.59,
+      "subscription": "sub-nantes-01",
+      "name": "rg-matthieu-reby"
     }
   ],
-  "totalMTD": 1157.55
+  "totalPrevious": 44.83
 }
