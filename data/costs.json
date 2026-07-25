@@ -1,9 +1,8 @@
 {
-  "delta": -40.0,
-  "totalMTD": 1512.47,
+  "totalPrevious": 2519.75,
   "subscriptions": [
     {
-      "mtd": 1382.49,
+      "mtd": 1441.21,
       "name": "sub-idf-01",
       "previous": 2313.15
     },
@@ -13,7 +12,7 @@
       "previous": 0.0
     },
     {
-      "mtd": 98.95,
+      "mtd": 102.97,
       "name": "sub-lyon-01",
       "previous": 161.77
     },
@@ -23,7 +22,7 @@
       "previous": 0
     },
     {
-      "mtd": 31.03,
+      "mtd": 32.32,
       "name": "sub-nantes-01",
       "previous": 44.83
     },
@@ -33,58 +32,59 @@
       "previous": 0
     }
   ],
-  "lastUpdated": "2026-07-24 08:28",
-  "totalPrevious": 2519.75,
+  "lastUpdated": "2026-07-25 08:07",
+  "delta": -37.4,
   "topRGs": [
     {
+      "cost": 263.42,
       "name": "rg-bienvenu-kenfack-demguia",
-      "subscription": "sub-idf-01",
-      "cost": 252.07
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 210.77,
       "name": "rg-nassim-laidi",
-      "subscription": "sub-idf-01",
-      "cost": 201.91
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 170.43,
       "name": "rg-nicolas-bedikian",
-      "subscription": "sub-idf-01",
-      "cost": 163.36
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 148.39,
       "name": "rg-pierre-chancrin",
-      "subscription": "sub-idf-01",
-      "cost": 141.99
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 134.65,
       "name": "rg-taoufik-mellah",
-      "subscription": "sub-idf-01",
-      "cost": 128.35
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 101.41,
       "name": "rg-imade-bouziane",
-      "subscription": "sub-idf-01",
-      "cost": 97.28
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 62.64,
       "name": "rg-fabric-global",
-      "subscription": "sub-idf-01",
-      "cost": 61.3
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 53.21,
       "name": "rg-jonathan-bibinet",
-      "subscription": "sub-idf-01",
-      "cost": 51.08
+      "subscription": "sub-idf-01"
     },
     {
+      "cost": 41.26,
       "name": "rg-ahe",
-      "subscription": "sub-lyon-01",
-      "cost": 39.47
+      "subscription": "sub-lyon-01"
     },
     {
+      "cost": 38.29,
       "name": "rg-apilash-varatharasa",
-      "subscription": "sub-idf-01",
-      "cost": 36.68
+      "subscription": "sub-idf-01"
     }
-  ]
+  ],
+  "totalMTD": 1576.5
 }
