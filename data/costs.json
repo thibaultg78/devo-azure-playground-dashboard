@@ -1,39 +1,90 @@
 {
-  "topRGs": null,
-  "subscriptions": [
+  "lastUpdated": "2026-07-28 08:34",
+  "topRGs": [
     {
-      "name": "sub-idf-01",
-      "previous": 0,
-      "mtd": 1556.75
+      "name": "rg-bienvenu-kenfack-demguia",
+      "cost": 296.2,
+      "subscription": "sub-idf-01"
     },
     {
-      "name": "sub-lille-01",
-      "previous": 0,
-      "mtd": 0
+      "name": "rg-nassim-laidi",
+      "cost": 237.02,
+      "subscription": "sub-idf-01"
     },
     {
-      "name": "sub-lyon-01",
-      "previous": 0,
-      "mtd": 0
+      "name": "rg-nicolas-bedikian",
+      "cost": 191.66,
+      "subscription": "sub-idf-01"
     },
     {
-      "name": "sub-marseille-01",
-      "previous": 0,
-      "mtd": 0
+      "name": "rg-pierre-chancrin",
+      "cost": 166.82,
+      "subscription": "sub-idf-01"
     },
     {
-      "name": "sub-nantes-01",
-      "previous": 0,
-      "mtd": 0
+      "name": "rg-taoufik-mellah",
+      "cost": 152.81,
+      "subscription": "sub-idf-01"
     },
     {
-      "name": "sub-temp-01",
-      "previous": 0,
-      "mtd": 0
+      "name": "rg-imade-bouziane",
+      "cost": 111.78,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-fabric-global",
+      "cost": 63.83,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-jonathan-bibinet",
+      "cost": 59.59,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-ahe",
+      "cost": 46.39,
+      "subscription": "sub-lyon-01"
+    },
+    {
+      "name": "rg-apilash-varatharasa",
+      "cost": 43.07,
+      "subscription": "sub-idf-01"
     }
   ],
-  "delta": 0,
-  "lastUpdated": "2026-07-27 09:53",
-  "totalMTD": 1556.75,
-  "totalPrevious": 0.0
+  "totalPrevious": 2474.92,
+  "subscriptions": [
+    {
+      "mtd": 1608.12,
+      "previous": 2313.15,
+      "name": "sub-idf-01"
+    },
+    {
+      "mtd": 0.0,
+      "previous": 0.0,
+      "name": "sub-lille-01"
+    },
+    {
+      "mtd": 117.92,
+      "previous": 161.77,
+      "name": "sub-lyon-01"
+    },
+    {
+      "mtd": 0,
+      "previous": 0,
+      "name": "sub-marseille-01"
+    },
+    {
+      "mtd": 36.14,
+      "previous": 0,
+      "name": "sub-nantes-01"
+    },
+    {
+      "mtd": 0,
+      "previous": 0,
+      "name": "sub-temp-01"
+    }
+  ],
+  "totalMTD": 1762.18,
+  "delta": -28.8
 }
