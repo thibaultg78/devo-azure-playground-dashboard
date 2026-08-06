@@ -1,85 +1,90 @@
 {
-  "totalPrevious": 41.38,
+  "totalMTD": 320.93,
+  "lastUpdated": "2026-08-06 08:36",
   "subscriptions": [
     {
-      "mtd": 0,
       "name": "sub-idf-01",
-      "previous": 0
+      "mtd": 300.94,
+      "previous": 1879.28
     },
     {
-      "mtd": 0,
       "name": "sub-lille-01",
-      "previous": 0
+      "mtd": 0.0,
+      "previous": 0.0
     },
     {
-      "mtd": 0,
       "name": "sub-lyon-01",
-      "previous": 0
+      "mtd": 19.99,
+      "previous": 133.04
     },
     {
-      "mtd": 0,
       "name": "sub-marseille-01",
+      "mtd": 0,
       "previous": 0
     },
     {
-      "mtd": 5.2,
       "name": "sub-nantes-01",
-      "previous": 41.38
+      "mtd": 0,
+      "previous": 0
     },
     {
-      "mtd": 0,
       "name": "sub-temp-01",
+      "mtd": 0,
       "previous": 0
     }
   ],
-  "totalMTD": 5.2,
-  "lastUpdated": "2026-08-05 08:36",
+  "totalPrevious": 2012.32,
   "topRGs": [
     {
-      "cost": 7.05,
-      "name": "rg-ahe",
-      "subscription": "sub-lyon-01"
+      "name": "rg-bienvenu-kenfack-demguia",
+      "subscription": "sub-idf-01",
+      "cost": 55.95
     },
     {
-      "cost": 4.35,
-      "name": "cyberlake-grm",
-      "subscription": "sub-lyon-01"
+      "name": "rg-nicolas-bedikian",
+      "subscription": "sub-idf-01",
+      "cost": 36.02
     },
     {
-      "cost": 4.35,
-      "name": "databricks-rg-databricks-workplace-rf3udxvsa5kr6",
-      "subscription": "sub-lyon-01"
+      "name": "rg-nassim-laidi",
+      "subscription": "sub-idf-01",
+      "cost": 36.02
     },
     {
-      "cost": 2.76,
-      "name": "rg-matthieu-reby",
-      "subscription": "sub-nantes-01"
+      "name": "rg-taoufik-mellah",
+      "subscription": "sub-idf-01",
+      "cost": 34.2
     },
     {
-      "cost": 2.45,
-      "name": "rg-alexandre-lesieur",
-      "subscription": "sub-nantes-01"
+      "name": "rg-pierre-chancrin",
+      "subscription": "sub-idf-01",
+      "cost": 31.14
     },
     {
-      "cost": 0.22,
-      "name": "databricks_demo",
-      "subscription": "sub-lyon-01"
+      "name": "rg-imade-bouziane",
+      "subscription": "sub-idf-01",
+      "cost": 19.03
     },
     {
-      "cost": 0.06,
-      "name": "databricks_demo_mg",
-      "subscription": "sub-lyon-01"
+      "name": "rg-gael-kamdem-de-teyou",
+      "subscription": "sub-idf-01",
+      "cost": 17.72
     },
     {
-      "cost": 0.04,
-      "name": "cyberlake-demo",
-      "subscription": "sub-lyon-01"
+      "name": "rg-jonathan-bibinet",
+      "subscription": "sub-idf-01",
+      "cost": 10.83
     },
     {
-      "cost": 0.0,
-      "name": "databricks-rg-cyberlake_test_zerobus-clz7n3uh3u2gm",
-      "subscription": "sub-lyon-01"
+      "name": "rg-fabric-global",
+      "subscription": "sub-idf-01",
+      "cost": 8.64
+    },
+    {
+      "name": "rg-apilash-varatharasa",
+      "subscription": "sub-idf-01",
+      "cost": 8.1
     }
   ],
-  "delta": -87.4
+  "delta": -84.1
 }
