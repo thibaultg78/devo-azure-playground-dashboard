@@ -1,90 +1,39 @@
 {
-  "lastUpdated": "2026-08-08 06:54",
+  "topRGs": null,
+  "delta": 0,
+  "totalMTD": 0.0,
+  "lastUpdated": "2026-08-09 06:57",
   "subscriptions": [
     {
       "name": "sub-idf-01",
-      "mtd": 427.58,
-      "previous": 1879.28
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-lille-01",
-      "mtd": 0.0,
-      "previous": 0.0
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-lyon-01",
-      "mtd": 27.48,
-      "previous": 133.04
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-marseille-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-nantes-01",
-      "mtd": 8.92,
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-temp-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 0,
+      "mtd": 0
     }
   ],
-  "delta": -76.9,
-  "topRGs": [
-    {
-      "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 76.9,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-nassim-laidi",
-      "cost": 49.6,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-nicolas-bedikian",
-      "cost": 49.6,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-taoufik-mellah",
-      "cost": 47.05,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-pierre-chancrin",
-      "cost": 43.1,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-gael-kamdem-de-teyou",
-      "cost": 31.3,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-imade-bouziane",
-      "cost": 26.13,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-fabric-global",
-      "cost": 18.13,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-jonathan-bibinet",
-      "cost": 15.48,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-ahe",
-      "cost": 12.04,
-      "subscription": "sub-lyon-01"
-    }
-  ],
-  "totalMTD": 463.98,
-  "totalPrevious": 2012.32
+  "totalPrevious": 0.0
 }
