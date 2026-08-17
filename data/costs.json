@@ -1,50 +1,39 @@
 {
+  "delta": 0,
+  "topRGs": null,
   "subscriptions": [
     {
       "mtd": 0,
-      "previous": 0,
-      "name": "sub-idf-01"
+      "name": "sub-idf-01",
+      "previous": 0
     },
     {
       "mtd": 0,
-      "previous": 0,
-      "name": "sub-lille-01"
+      "name": "sub-lille-01",
+      "previous": 0
     },
     {
       "mtd": 0,
-      "previous": 0,
-      "name": "sub-lyon-01"
+      "name": "sub-lyon-01",
+      "previous": 0
     },
     {
       "mtd": 0,
-      "previous": 0,
-      "name": "sub-marseille-01"
-    },
-    {
-      "mtd": 19.11,
-      "previous": 41.38,
-      "name": "sub-nantes-01"
+      "name": "sub-marseille-01",
+      "previous": 0
     },
     {
       "mtd": 0,
-      "previous": 0,
-      "name": "sub-temp-01"
+      "name": "sub-nantes-01",
+      "previous": 0
+    },
+    {
+      "mtd": 0,
+      "name": "sub-temp-01",
+      "previous": 0
     }
   ],
-  "delta": -53.8,
-  "lastUpdated": "2026-08-16 06:40",
-  "topRGs": [
-    {
-      "cost": 10.14,
-      "subscription": "sub-nantes-01",
-      "name": "rg-matthieu-reby"
-    },
-    {
-      "cost": 8.98,
-      "subscription": "sub-nantes-01",
-      "name": "rg-alexandre-lesieur"
-    }
-  ],
-  "totalMTD": 19.11,
-  "totalPrevious": 41.38
+  "totalPrevious": 0.0,
+  "totalMTD": 0.0,
+  "lastUpdated": "2026-08-17 06:56"
 }
