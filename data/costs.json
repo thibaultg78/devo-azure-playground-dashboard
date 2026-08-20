@@ -1,90 +1,39 @@
 {
-  "totalPrevious": 1879.28,
-  "delta": -37.5,
+  "totalMTD": 0.0,
+  "topRGs": null,
+  "lastUpdated": "2026-08-20 06:46",
   "subscriptions": [
     {
-      "mtd": 1174.1,
-      "name": "sub-idf-01",
-      "previous": 1879.28
-    },
-    {
-      "mtd": 0.0,
-      "name": "sub-lille-01",
-      "previous": 0
+      "mtd": 0,
+      "previous": 0,
+      "name": "sub-idf-01"
     },
     {
       "mtd": 0,
-      "name": "sub-lyon-01",
-      "previous": 0
+      "previous": 0,
+      "name": "sub-lille-01"
     },
     {
       "mtd": 0,
-      "name": "sub-marseille-01",
-      "previous": 0
+      "previous": 0,
+      "name": "sub-lyon-01"
     },
     {
       "mtd": 0,
-      "name": "sub-nantes-01",
-      "previous": 0
+      "previous": 0,
+      "name": "sub-marseille-01"
     },
     {
       "mtd": 0,
-      "name": "sub-temp-01",
-      "previous": 0
+      "previous": 0,
+      "name": "sub-nantes-01"
+    },
+    {
+      "mtd": 0,
+      "previous": 0,
+      "name": "sub-temp-01"
     }
   ],
-  "lastUpdated": "2026-08-19 06:44",
-  "topRGs": [
-    {
-      "cost": 197.16,
-      "name": "rg-bienvenu-kenfack-demguia",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 136.24,
-      "name": "rg-taoufik-mellah",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 127.53,
-      "name": "rg-nicolas-bedikian",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 127.53,
-      "name": "rg-nassim-laidi",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 110.77,
-      "name": "rg-pierre-chancrin",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 109.27,
-      "name": "rg-gael-kamdem-de-teyou",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 72.92,
-      "name": "rg-imade-bouziane",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 60.7,
-      "name": "rg-fabric-global",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 43.0,
-      "name": "rg-jonathan-bibinet",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 28.65,
-      "name": "rg-apilash-varatharasa",
-      "subscription": "sub-idf-01"
-    }
-  ],
-  "totalMTD": 1174.1
+  "delta": 0,
+  "totalPrevious": 0.0
 }
