@@ -1,90 +1,75 @@
 {
-  "totalPrevious": 1879.28,
-  "totalMTD": 1442.39,
-  "lastUpdated": "2026-08-23 06:41",
+  "lastUpdated": "2026-08-24 06:59",
   "topRGs": [
     {
-      "subscription": "sub-idf-01",
-      "cost": 235.98,
-      "name": "rg-bienvenu-kenfack-demguia"
+      "name": "rg-ahe",
+      "subscription": "sub-lyon-01",
+      "cost": 39.39
     },
     {
-      "subscription": "sub-idf-01",
-      "cost": 171.24,
-      "name": "rg-taoufik-mellah"
+      "name": "cyberlake-grm",
+      "subscription": "sub-lyon-01",
+      "cost": 24.3
     },
     {
-      "subscription": "sub-idf-01",
-      "cost": 155.87,
-      "name": "rg-nicolas-bedikian"
+      "name": "databricks-rg-databricks-workplace-rf3udxvsa5kr6",
+      "subscription": "sub-lyon-01",
+      "cost": 24.3
     },
     {
-      "subscription": "sub-idf-01",
-      "cost": 155.87,
-      "name": "rg-nassim-laidi"
+      "name": "databricks_demo",
+      "subscription": "sub-lyon-01",
+      "cost": 1.29
     },
     {
-      "subscription": "sub-idf-01",
-      "cost": 137.61,
-      "name": "rg-gael-kamdem-de-teyou"
+      "name": "databricks_demo_mg",
+      "subscription": "sub-lyon-01",
+      "cost": 0.35
     },
     {
-      "subscription": "sub-idf-01",
-      "cost": 135.22,
-      "name": "rg-pierre-chancrin"
+      "name": "cyberlake-demo",
+      "subscription": "sub-lyon-01",
+      "cost": 0.25
     },
     {
-      "subscription": "sub-idf-01",
-      "cost": 90.14,
-      "name": "rg-imade-bouziane"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 76.49,
-      "name": "rg-fabric-global"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 51.52,
-      "name": "rg-jonathan-bibinet"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 35.01,
-      "name": "rg-apilash-varatharasa"
+      "name": "databricks-rg-cyberlake_test_zerobus-clz7n3uh3u2gm",
+      "subscription": "sub-lyon-01",
+      "cost": 0.0
     }
   ],
+  "totalMTD": 29.3,
+  "delta": -83.2,
   "subscriptions": [
     {
-      "mtd": 1442.39,
-      "previous": 1879.28,
-      "name": "sub-idf-01"
-    },
-    {
-      "mtd": 0.0,
-      "previous": 0.0,
-      "name": "sub-lille-01"
-    },
-    {
-      "mtd": 0,
+      "name": "sub-idf-01",
       "previous": 0,
-      "name": "sub-lyon-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-lille-01",
       "previous": 0,
-      "name": "sub-marseille-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-nantes-01"
+      "name": "sub-lyon-01",
+      "previous": 133.04,
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-marseille-01",
       "previous": 0,
-      "name": "sub-temp-01"
+      "mtd": 0
+    },
+    {
+      "name": "sub-nantes-01",
+      "previous": 41.38,
+      "mtd": 29.3
+    },
+    {
+      "name": "sub-temp-01",
+      "previous": 0,
+      "mtd": 0
     }
   ],
-  "delta": -23.2
+  "totalPrevious": 174.42
 }
