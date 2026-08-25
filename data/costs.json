@@ -1,44 +1,6 @@
 {
-  "lastUpdated": "2026-08-24 06:59",
-  "topRGs": [
-    {
-      "name": "rg-ahe",
-      "subscription": "sub-lyon-01",
-      "cost": 39.39
-    },
-    {
-      "name": "cyberlake-grm",
-      "subscription": "sub-lyon-01",
-      "cost": 24.3
-    },
-    {
-      "name": "databricks-rg-databricks-workplace-rf3udxvsa5kr6",
-      "subscription": "sub-lyon-01",
-      "cost": 24.3
-    },
-    {
-      "name": "databricks_demo",
-      "subscription": "sub-lyon-01",
-      "cost": 1.29
-    },
-    {
-      "name": "databricks_demo_mg",
-      "subscription": "sub-lyon-01",
-      "cost": 0.35
-    },
-    {
-      "name": "cyberlake-demo",
-      "subscription": "sub-lyon-01",
-      "cost": 0.25
-    },
-    {
-      "name": "databricks-rg-cyberlake_test_zerobus-clz7n3uh3u2gm",
-      "subscription": "sub-lyon-01",
-      "cost": 0.0
-    }
-  ],
-  "totalMTD": 29.3,
-  "delta": -83.2,
+  "delta": 0,
+  "totalPrevious": 0.0,
   "subscriptions": [
     {
       "name": "sub-idf-01",
@@ -52,7 +14,7 @@
     },
     {
       "name": "sub-lyon-01",
-      "previous": 133.04,
+      "previous": 0,
       "mtd": 0
     },
     {
@@ -62,8 +24,8 @@
     },
     {
       "name": "sub-nantes-01",
-      "previous": 41.38,
-      "mtd": 29.3
+      "previous": 0,
+      "mtd": 0
     },
     {
       "name": "sub-temp-01",
@@ -71,5 +33,7 @@
       "mtd": 0
     }
   ],
-  "totalPrevious": 174.42
+  "topRGs": null,
+  "totalMTD": 0.0,
+  "lastUpdated": "2026-08-25 06:49"
 }
