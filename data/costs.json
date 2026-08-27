@@ -1,39 +1,90 @@
 {
-  "lastUpdated": "2026-08-26 06:50",
+  "totalPrevious": 2012.32,
+  "totalMTD": 103.23,
+  "delta": -94.9,
   "subscriptions": [
     {
-      "previous": 0,
       "name": "sub-idf-01",
-      "mtd": 1605.42
+      "previous": 1879.28,
+      "mtd": 0
     },
     {
-      "previous": 0,
       "name": "sub-lille-01",
-      "mtd": 0
+      "previous": 0.0,
+      "mtd": 0.0
     },
     {
-      "previous": 0,
       "name": "sub-lyon-01",
-      "mtd": 0
+      "previous": 133.04,
+      "mtd": 103.23
     },
     {
-      "previous": 0,
       "name": "sub-marseille-01",
+      "previous": 0,
       "mtd": 0
     },
     {
-      "previous": 0,
       "name": "sub-nantes-01",
+      "previous": 0,
       "mtd": 0
     },
     {
-      "previous": 0,
       "name": "sub-temp-01",
+      "previous": 0,
       "mtd": 0
     }
   ],
-  "topRGs": null,
-  "totalMTD": 1605.42,
-  "totalPrevious": 0.0,
-  "delta": 0
+  "lastUpdated": "2026-08-27 17:24",
+  "topRGs": [
+    {
+      "cost": 237.84,
+      "name": "rg-bienvenu-kenfack-demguia",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 209.94,
+      "name": "rg-taoufik-mellah",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 187.17,
+      "name": "rg-nicolas-bedikian",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 187.17,
+      "name": "rg-nassim-laidi",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 168.91,
+      "name": "rg-gael-kamdem-de-teyou",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 162.56,
+      "name": "rg-pierre-chancrin",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 109.15,
+      "name": "rg-imade-bouziane",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 78.22,
+      "name": "rg-fabric-global",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 60.93,
+      "name": "rg-jonathan-bibinet",
+      "subscription": "sub-idf-01"
+    },
+    {
+      "cost": 45.29,
+      "name": "rg-ahe",
+      "subscription": "sub-lyon-01"
+    }
+  ]
 }
