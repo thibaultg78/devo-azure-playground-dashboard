@@ -1,90 +1,39 @@
 {
-  "totalPrevious": 1879.28,
-  "totalMTD": 1781.28,
-  "topRGs": [
-    {
-      "name": "rg-bienvenu-kenfack-demguia",
-      "cost": 238.6,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-taoufik-mellah",
-      "cost": 225.79,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-nicolas-bedikian",
-      "cost": 200.16,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-nassim-laidi",
-      "cost": 200.16,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-gael-kamdem-de-teyou",
-      "cost": 181.9,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-pierre-chancrin",
-      "cost": 173.84,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-imade-bouziane",
-      "cost": 117.04,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-fabric-global",
-      "cost": 78.98,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-jonathan-bibinet",
-      "cost": 64.83,
-      "subscription": "sub-idf-01"
-    },
-    {
-      "name": "rg-apilash-varatharasa",
-      "cost": 44.95,
-      "subscription": "sub-idf-01"
-    }
-  ],
-  "delta": -5.2,
   "subscriptions": [
     {
+      "previous": 0,
       "name": "sub-idf-01",
-      "mtd": 1781.28,
-      "previous": 1879.28
+      "mtd": 1837.64
     },
     {
+      "previous": 0,
       "name": "sub-lille-01",
-      "mtd": 0.0,
-      "previous": 0.0
+      "mtd": 0
     },
     {
+      "previous": 0,
       "name": "sub-lyon-01",
-      "mtd": 0,
-      "previous": 0
+      "mtd": 0
     },
     {
+      "previous": 0,
       "name": "sub-marseille-01",
-      "mtd": 0,
-      "previous": 0
+      "mtd": 0
     },
     {
+      "previous": 0,
       "name": "sub-nantes-01",
-      "mtd": 0,
-      "previous": 0
+      "mtd": 0
     },
     {
+      "previous": 0,
       "name": "sub-temp-01",
-      "mtd": 0,
-      "previous": 0
+      "mtd": 0
     }
   ],
-  "lastUpdated": "2026-08-29 12:25"
+  "totalMTD": 1837.64,
+  "lastUpdated": "2026-08-30 11:25",
+  "topRGs": null,
+  "totalPrevious": 0.0,
+  "delta": 0
 }
