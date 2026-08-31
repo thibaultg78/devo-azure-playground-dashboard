@@ -1,39 +1,75 @@
 {
+  "totalMTD": 118.51,
   "subscriptions": [
     {
       "previous": 0,
-      "name": "sub-idf-01",
-      "mtd": 1837.64
+      "mtd": 0,
+      "name": "sub-idf-01"
     },
     {
       "previous": 0,
-      "name": "sub-lille-01",
-      "mtd": 0
+      "mtd": 0,
+      "name": "sub-lille-01"
+    },
+    {
+      "previous": 133.04,
+      "mtd": 118.51,
+      "name": "sub-lyon-01"
     },
     {
       "previous": 0,
-      "name": "sub-lyon-01",
-      "mtd": 0
+      "mtd": 0,
+      "name": "sub-marseille-01"
     },
     {
       "previous": 0,
-      "name": "sub-marseille-01",
-      "mtd": 0
+      "mtd": 0,
+      "name": "sub-nantes-01"
     },
     {
       "previous": 0,
-      "name": "sub-nantes-01",
-      "mtd": 0
-    },
-    {
-      "previous": 0,
-      "name": "sub-temp-01",
-      "mtd": 0
+      "mtd": 0,
+      "name": "sub-temp-01"
     }
   ],
-  "totalMTD": 1837.64,
-  "lastUpdated": "2026-08-30 11:25",
-  "topRGs": null,
-  "totalPrevious": 0.0,
-  "delta": 0
+  "topRGs": [
+    {
+      "cost": 51.99,
+      "name": "rg-ahe",
+      "subscription": "sub-lyon-01"
+    },
+    {
+      "cost": 32.04,
+      "name": "cyberlake-grm",
+      "subscription": "sub-lyon-01"
+    },
+    {
+      "cost": 32.03,
+      "name": "databricks-rg-databricks-workplace-rf3udxvsa5kr6",
+      "subscription": "sub-lyon-01"
+    },
+    {
+      "cost": 1.67,
+      "name": "databricks_demo",
+      "subscription": "sub-lyon-01"
+    },
+    {
+      "cost": 0.46,
+      "name": "databricks_demo_mg",
+      "subscription": "sub-lyon-01"
+    },
+    {
+      "cost": 0.32,
+      "name": "cyberlake-demo",
+      "subscription": "sub-lyon-01"
+    },
+    {
+      "cost": 0.0,
+      "name": "databricks-rg-cyberlake_test_zerobus-clz7n3uh3u2gm",
+      "subscription": "sub-lyon-01"
+    }
+  ],
+  "delta": -10.9,
+  "lastUpdated": "2026-08-31 12:56",
+  "totalPrevious": 133.04
 }
