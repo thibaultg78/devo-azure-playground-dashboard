@@ -1,90 +1,50 @@
 {
+  "delta": -89.9,
   "subscriptions": [
     {
-      "mtd": 118.21,
-      "previous": 1933.01,
+      "previous": 0,
+      "mtd": 0,
       "name": "sub-idf-01"
     },
     {
-      "mtd": 0,
       "previous": 0,
+      "mtd": 0,
       "name": "sub-lille-01"
     },
     {
-      "mtd": 0,
       "previous": 0,
+      "mtd": 0,
       "name": "sub-lyon-01"
     },
     {
-      "mtd": 0,
       "previous": 0,
+      "mtd": 0,
       "name": "sub-marseille-01"
     },
     {
-      "mtd": 0,
-      "previous": 0,
+      "previous": 39.67,
+      "mtd": 4.01,
       "name": "sub-nantes-01"
     },
     {
-      "mtd": 0,
       "previous": 0,
+      "mtd": 0,
       "name": "sub-temp-01"
     }
   ],
-  "delta": -93.9,
+  "lastUpdated": "2026-09-04 10:47",
+  "totalPrevious": 39.67,
   "topRGs": [
     {
-      "subscription": "sub-idf-01",
-      "cost": 18.49,
-      "name": "rg-taoufik-mellah"
+      "subscription": "sub-nantes-01",
+      "cost": 2.16,
+      "name": "rg-matthieu-reby"
     },
     {
-      "subscription": "sub-idf-01",
-      "cost": 15.0,
-      "name": "rg-nassim-laidi"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 15.0,
-      "name": "rg-nicolas-bedikian"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 15.0,
-      "name": "rg-gael-kamdem-de-teyou"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 12.92,
-      "name": "rg-pierre-chancrin"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 9.11,
-      "name": "rg-imade-bouziane"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 4.51,
-      "name": "rg-jonathan-bibinet"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 3.47,
-      "name": "rg-apilash-varatharasa"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 3.28,
-      "name": "rg-idriss-elatrech-kratima"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 3.24,
-      "name": "rg-samir-laissaoui"
+      "subscription": "sub-nantes-01",
+      "cost": 1.85,
+      "name": "rg-alexandre-lesieur"
     }
   ],
-  "lastUpdated": "2026-09-03 10:48",
-  "totalMTD": 118.21,
-  "totalPrevious": 1933.01
+  "totalMTD": 4.01
 }
