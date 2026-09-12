@@ -1,39 +1,39 @@
 {
-  "topRGs": null,
-  "lastUpdated": "2026-09-11 10:45",
+  "totalPrevious": 0.0,
+  "lastUpdated": "2026-09-12 10:14",
   "subscriptions": [
     {
-      "mtd": 0,
+      "name": "sub-idf-01",
       "previous": 0,
-      "name": "sub-idf-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-lille-01",
       "previous": 0,
-      "name": "sub-lille-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-lyon-01",
       "previous": 0,
-      "name": "sub-lyon-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-marseille-01",
       "previous": 0,
-      "name": "sub-marseille-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-nantes-01",
       "previous": 0,
-      "name": "sub-nantes-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-temp-01",
       "previous": 0,
-      "name": "sub-temp-01"
+      "mtd": 0
     }
   ],
-  "totalPrevious": 0.0,
+  "totalMTD": 0.0,
   "delta": 0,
-  "totalMTD": 0.0
+  "topRGs": null
 }
