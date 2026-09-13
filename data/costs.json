@@ -1,11 +1,11 @@
 {
-  "totalPrevious": 0.0,
-  "lastUpdated": "2026-09-12 10:14",
+  "topRGs": null,
+  "totalMTD": 702.07,
   "subscriptions": [
     {
       "name": "sub-idf-01",
       "previous": 0,
-      "mtd": 0
+      "mtd": 702.07
     },
     {
       "name": "sub-lille-01",
@@ -33,7 +33,7 @@
       "mtd": 0
     }
   ],
-  "totalMTD": 0.0,
   "delta": 0,
-  "topRGs": null
+  "totalPrevious": 0.0,
+  "lastUpdated": "2026-09-13 11:15"
 }
