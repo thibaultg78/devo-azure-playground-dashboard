@@ -1,8 +1,9 @@
 {
+  "topRGs": null,
   "subscriptions": [
     {
-      "mtd": 988.99,
-      "previous": 1933.01,
+      "mtd": 0,
+      "previous": 0,
       "name": "sub-idf-01"
     },
     {
@@ -31,9 +32,8 @@
       "name": "sub-temp-01"
     }
   ],
-  "totalPrevious": 1933.01,
-  "totalMTD": 988.99,
-  "lastUpdated": "2026-09-18 10:42",
-  "topRGs": null,
-  "delta": -48.8
+  "totalPrevious": 0.0,
+  "delta": 0,
+  "totalMTD": 0.0,
+  "lastUpdated": "2026-09-19 10:27"
 }
