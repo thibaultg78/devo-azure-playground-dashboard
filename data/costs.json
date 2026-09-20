@@ -1,39 +1,90 @@
 {
-  "topRGs": null,
+  "totalMTD": 1098.11,
+  "delta": -43.2,
   "subscriptions": [
     {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-idf-01"
+      "mtd": 1098.11,
+      "name": "sub-idf-01",
+      "previous": 1933.01
+    },
+    {
+      "mtd": 0.0,
+      "name": "sub-lille-01",
+      "previous": 0
     },
     {
       "mtd": 0,
-      "previous": 0,
-      "name": "sub-lille-01"
+      "name": "sub-lyon-01",
+      "previous": 0
     },
     {
       "mtd": 0,
-      "previous": 0,
-      "name": "sub-lyon-01"
+      "name": "sub-marseille-01",
+      "previous": 0
     },
     {
       "mtd": 0,
-      "previous": 0,
-      "name": "sub-marseille-01"
+      "name": "sub-nantes-01",
+      "previous": 0
     },
     {
       "mtd": 0,
-      "previous": 0,
-      "name": "sub-nantes-01"
-    },
-    {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-temp-01"
+      "name": "sub-temp-01",
+      "previous": 0
     }
   ],
-  "totalPrevious": 0.0,
-  "delta": 0,
-  "totalMTD": 0.0,
-  "lastUpdated": "2026-09-19 10:27"
+  "lastUpdated": "2026-09-20 10:48",
+  "topRGs": [
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-taoufik-mellah",
+      "cost": 165.18
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-gael-kamdem-de-teyou",
+      "cost": 132.88
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-nassim-laidi",
+      "cost": 132.72
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-nicolas-bedikian",
+      "cost": 132.72
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-pierre-chancrin",
+      "cost": 89.05
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-imade-bouziane",
+      "cost": 80.9
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-thibault-gibard-coolify-n8n",
+      "cost": 74.76
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-jonathan-bibinet",
+      "cost": 39.9
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-apilash-varatharasa",
+      "cost": 30.6
+    },
+    {
+      "subscription": "sub-idf-01",
+      "name": "rg-fabric-global",
+      "cost": 30.03
+    }
+  ],
+  "totalPrevious": 1933.01
 }
