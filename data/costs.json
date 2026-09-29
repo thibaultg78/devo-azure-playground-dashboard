@@ -1,75 +1,73 @@
 {
-  "lastUpdated": "2026-09-28 13:08",
-  "delta": -18.3,
+  "totalPrevious": 120.99,
   "topRGs": [
     {
-      "cost": 236.77,
-      "subscription": "sub-idf-01",
-      "name": "rg-taoufik-mellah"
+      "name": "rg-marl-ais-test-weu",
+      "subscription": "sub-lyon-01",
+      "cost": 70.31
     },
     {
-      "cost": 189.26,
-      "subscription": "sub-idf-01",
-      "name": "rg-nicolas-bedikian"
+      "name": "rg-ahe",
+      "subscription": "sub-lyon-01",
+      "cost": 47.69
     },
     {
-      "cost": 189.26,
-      "subscription": "sub-idf-01",
-      "name": "rg-nassim-laidi"
+      "name": "rg-mouad-ali",
+      "subscription": "sub-lyon-01",
+      "cost": 30.71
     },
     {
-      "cost": 163.75,
-      "subscription": "sub-idf-01",
-      "name": "rg-gael-kamdem-de-teyou"
+      "name": "cyberlake-grm",
+      "subscription": "sub-lyon-01",
+      "cost": 29.16
     },
     {
-      "cost": 161.06,
-      "subscription": "sub-idf-01",
-      "name": "rg-pierre-chancrin"
+      "name": "databricks-rg-databricks-workplace-rf3udxvsa5kr6",
+      "subscription": "sub-lyon-01",
+      "cost": 29.15
     },
     {
-      "cost": 116.73,
-      "subscription": "sub-idf-01",
-      "name": "rg-thibault-gibard-coolify-n8n"
+      "name": "rg-amine-chourak",
+      "subscription": "sub-lyon-01",
+      "cost": 24.84
     },
     {
-      "cost": 115.35,
-      "subscription": "sub-idf-01",
-      "name": "rg-imade-bouziane"
+      "name": "ipam-rg-zh4ro54dapnky",
+      "subscription": "sub-lyon-01",
+      "cost": 18.6
     },
     {
-      "cost": 56.9,
-      "subscription": "sub-idf-01",
-      "name": "rg-jonathan-bibinet"
+      "name": "rg-bla-lzfoundations",
+      "subscription": "sub-lyon-01",
+      "cost": 3.39
     },
     {
-      "cost": 43.65,
-      "subscription": "sub-idf-01",
-      "name": "rg-apilash-varatharasa"
+      "name": "databricks_demo",
+      "subscription": "sub-lyon-01",
+      "cost": 3.13
     },
     {
-      "cost": 40.63,
-      "subscription": "sub-idf-01",
-      "name": "rg-samir-laissaoui"
+      "name": "$system",
+      "subscription": "sub-lyon-01",
+      "cost": 1.9
     }
   ],
-  "totalPrevious": 1933.01,
-  "totalMTD": 1578.63,
+  "delta": 177.6,
   "subscriptions": [
     {
       "name": "sub-idf-01",
-      "mtd": 1578.63,
-      "previous": 1933.01
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-lille-01",
-      "mtd": 0.0,
-      "previous": 0
+      "mtd": 0,
+      "previous": 0.0
     },
     {
       "name": "sub-lyon-01",
-      "mtd": 0,
-      "previous": 0
+      "mtd": 260.19,
+      "previous": 120.99
     },
     {
       "name": "sub-marseille-01",
@@ -78,7 +76,7 @@
     },
     {
       "name": "sub-nantes-01",
-      "mtd": 0,
+      "mtd": 75.7,
       "previous": 0
     },
     {
@@ -86,5 +84,7 @@
       "mtd": 0,
       "previous": 0
     }
-  ]
+  ],
+  "totalMTD": 335.89,
+  "lastUpdated": "2026-09-29 12:17"
 }
