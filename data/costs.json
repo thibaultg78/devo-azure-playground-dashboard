@@ -1,90 +1,39 @@
 {
-  "totalPrevious": 120.99,
-  "topRGs": [
-    {
-      "name": "rg-marl-ais-test-weu",
-      "subscription": "sub-lyon-01",
-      "cost": 70.31
-    },
-    {
-      "name": "rg-ahe",
-      "subscription": "sub-lyon-01",
-      "cost": 47.69
-    },
-    {
-      "name": "rg-mouad-ali",
-      "subscription": "sub-lyon-01",
-      "cost": 30.71
-    },
-    {
-      "name": "cyberlake-grm",
-      "subscription": "sub-lyon-01",
-      "cost": 29.16
-    },
-    {
-      "name": "databricks-rg-databricks-workplace-rf3udxvsa5kr6",
-      "subscription": "sub-lyon-01",
-      "cost": 29.15
-    },
-    {
-      "name": "rg-amine-chourak",
-      "subscription": "sub-lyon-01",
-      "cost": 24.84
-    },
-    {
-      "name": "ipam-rg-zh4ro54dapnky",
-      "subscription": "sub-lyon-01",
-      "cost": 18.6
-    },
-    {
-      "name": "rg-bla-lzfoundations",
-      "subscription": "sub-lyon-01",
-      "cost": 3.39
-    },
-    {
-      "name": "databricks_demo",
-      "subscription": "sub-lyon-01",
-      "cost": 3.13
-    },
-    {
-      "name": "$system",
-      "subscription": "sub-lyon-01",
-      "cost": 1.9
-    }
-  ],
-  "delta": 177.6,
+  "totalMTD": 0.0,
+  "delta": 0,
+  "lastUpdated": "2026-09-30 12:03",
   "subscriptions": [
     {
-      "name": "sub-idf-01",
+      "previous": 0,
       "mtd": 0,
-      "previous": 0
+      "name": "sub-idf-01"
     },
     {
-      "name": "sub-lille-01",
+      "previous": 0,
       "mtd": 0,
-      "previous": 0.0
+      "name": "sub-lille-01"
     },
     {
-      "name": "sub-lyon-01",
-      "mtd": 260.19,
-      "previous": 120.99
-    },
-    {
-      "name": "sub-marseille-01",
+      "previous": 0,
       "mtd": 0,
-      "previous": 0
+      "name": "sub-lyon-01"
     },
     {
-      "name": "sub-nantes-01",
-      "mtd": 75.7,
-      "previous": 0
-    },
-    {
-      "name": "sub-temp-01",
+      "previous": 0,
       "mtd": 0,
-      "previous": 0
+      "name": "sub-marseille-01"
+    },
+    {
+      "previous": 0,
+      "mtd": 0,
+      "name": "sub-nantes-01"
+    },
+    {
+      "previous": 0,
+      "mtd": 0,
+      "name": "sub-temp-01"
     }
   ],
-  "totalMTD": 335.89,
-  "lastUpdated": "2026-09-29 12:17"
+  "topRGs": null,
+  "totalPrevious": 0.0
 }
