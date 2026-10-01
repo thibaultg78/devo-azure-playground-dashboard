@@ -1,39 +1,90 @@
 {
-  "totalMTD": 0.0,
-  "delta": 0,
-  "lastUpdated": "2026-09-30 12:03",
-  "subscriptions": [
+  "totalMTD": 18.9,
+  "lastUpdated": "2026-10-01 12:36",
+  "topRGs": [
     {
-      "previous": 0,
-      "mtd": 0,
-      "name": "sub-idf-01"
+      "name": "rg-pierre-chancrin",
+      "cost": 2.44,
+      "subscription": "sub-idf-01"
     },
     {
-      "previous": 0,
-      "mtd": 0,
-      "name": "sub-lille-01"
+      "name": "rg-taoufik-mellah",
+      "cost": 2.28,
+      "subscription": "sub-idf-01"
     },
     {
-      "previous": 0,
-      "mtd": 0,
-      "name": "sub-lyon-01"
+      "name": "rg-nassim-laidi",
+      "cost": 1.77,
+      "subscription": "sub-idf-01"
     },
     {
-      "previous": 0,
-      "mtd": 0,
-      "name": "sub-marseille-01"
+      "name": "rg-nicolas-bedikian",
+      "cost": 1.77,
+      "subscription": "sub-idf-01"
     },
     {
-      "previous": 0,
-      "mtd": 0,
-      "name": "sub-nantes-01"
+      "name": "rg-imade-bouziane",
+      "cost": 1.08,
+      "subscription": "sub-idf-01"
     },
     {
-      "previous": 0,
-      "mtd": 0,
-      "name": "sub-temp-01"
+      "name": "rg-thibault-gibard-coolify-n8n",
+      "cost": 0.99,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-jonathan-bibinet",
+      "cost": 0.53,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-apilash-varatharasa",
+      "cost": 0.46,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-samir-laissaoui",
+      "cost": 0.39,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-lydia-arezki",
+      "cost": 0.35,
+      "subscription": "sub-idf-01"
     }
   ],
-  "topRGs": null,
-  "totalPrevious": 0.0
+  "totalPrevious": 2037.73,
+  "subscriptions": [
+    {
+      "previous": 1745.03,
+      "name": "sub-idf-01",
+      "mtd": 13.8
+    },
+    {
+      "previous": 0.0,
+      "name": "sub-lille-01",
+      "mtd": 0.0
+    },
+    {
+      "previous": 292.7,
+      "name": "sub-lyon-01",
+      "mtd": 5.1
+    },
+    {
+      "previous": 0,
+      "name": "sub-marseille-01",
+      "mtd": 0
+    },
+    {
+      "previous": 0,
+      "name": "sub-nantes-01",
+      "mtd": 0
+    },
+    {
+      "previous": 0,
+      "name": "sub-temp-01",
+      "mtd": 0
+    }
+  ],
+  "delta": -99.1
 }
