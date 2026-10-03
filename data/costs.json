@@ -1,39 +1,90 @@
 {
-  "totalMTD": 0.0,
-  "totalPrevious": 0.0,
-  "lastUpdated": "2026-10-02 12:01",
-  "topRGs": null,
+  "delta": -91.5,
+  "totalPrevious": 2118.12,
   "subscriptions": [
     {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-idf-01"
+      "name": "sub-idf-01",
+      "previous": 1744.85,
+      "mtd": 127.85
     },
     {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-lille-01"
+      "name": "sub-lille-01",
+      "previous": 0.0,
+      "mtd": 0.0
     },
     {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-lyon-01"
+      "name": "sub-lyon-01",
+      "previous": 292.7,
+      "mtd": 44.87
     },
     {
-      "mtd": 0,
+      "name": "sub-marseille-01",
       "previous": 0,
-      "name": "sub-marseille-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-nantes-01"
+      "name": "sub-nantes-01",
+      "previous": 80.57,
+      "mtd": 7.26
     },
     {
-      "mtd": 0,
+      "name": "sub-temp-01",
       "previous": 0,
-      "name": "sub-temp-01"
+      "mtd": 0
     }
   ],
-  "delta": 0
+  "topRGs": [
+    {
+      "name": "rg-pierre-chancrin",
+      "subscription": "sub-idf-01",
+      "cost": 24.49
+    },
+    {
+      "name": "rg-marl-ais-test-weu",
+      "subscription": "sub-lyon-01",
+      "cost": 23.14
+    },
+    {
+      "name": "rg-taoufik-mellah",
+      "subscription": "sub-idf-01",
+      "cost": 20.12
+    },
+    {
+      "name": "rg-nassim-laidi",
+      "subscription": "sub-idf-01",
+      "cost": 15.97
+    },
+    {
+      "name": "rg-nicolas-bedikian",
+      "subscription": "sub-idf-01",
+      "cost": 15.97
+    },
+    {
+      "name": "rg-thibault-gibard-coolify-n8n",
+      "subscription": "sub-idf-01",
+      "cost": 11.5
+    },
+    {
+      "name": "rg-imade-bouziane",
+      "subscription": "sub-idf-01",
+      "cost": 9.7
+    },
+    {
+      "name": "ipam-rg-zh4ro54dapnky",
+      "subscription": "sub-lyon-01",
+      "cost": 9.08
+    },
+    {
+      "name": "rg-jonathan-bibinet",
+      "subscription": "sub-idf-01",
+      "cost": 4.8
+    },
+    {
+      "name": "rg-benjaminmoreaux-dc",
+      "subscription": "sub-nantes-01",
+      "cost": 4.35
+    }
+  ],
+  "lastUpdated": "2026-10-03 11:14",
+  "totalMTD": 179.98
 }
