@@ -1,90 +1,90 @@
 {
-  "delta": -91.5,
-  "totalPrevious": 2118.12,
+  "lastUpdated": "2026-10-04 11:53",
   "subscriptions": [
     {
-      "name": "sub-idf-01",
       "previous": 1744.85,
-      "mtd": 127.85
+      "mtd": 179.93,
+      "name": "sub-idf-01"
     },
     {
-      "name": "sub-lille-01",
       "previous": 0.0,
-      "mtd": 0.0
+      "mtd": 0.0,
+      "name": "sub-lille-01"
     },
     {
-      "name": "sub-lyon-01",
       "previous": 292.7,
-      "mtd": 44.87
+      "mtd": 63.09,
+      "name": "sub-lyon-01"
     },
     {
-      "name": "sub-marseille-01",
       "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "name": "sub-marseille-01"
     },
     {
-      "name": "sub-nantes-01",
       "previous": 80.57,
-      "mtd": 7.26
+      "mtd": 9.87,
+      "name": "sub-nantes-01"
     },
     {
-      "name": "sub-temp-01",
       "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "name": "sub-temp-01"
     }
   ],
+  "totalPrevious": 2118.12,
+  "delta": -88.1,
   "topRGs": [
     {
-      "name": "rg-pierre-chancrin",
       "subscription": "sub-idf-01",
-      "cost": 24.49
+      "cost": 34.2,
+      "name": "rg-pierre-chancrin"
     },
     {
-      "name": "rg-marl-ais-test-weu",
       "subscription": "sub-lyon-01",
-      "cost": 23.14
+      "cost": 32.57,
+      "name": "rg-marl-ais-test-weu"
     },
     {
-      "name": "rg-taoufik-mellah",
       "subscription": "sub-idf-01",
-      "cost": 20.12
+      "cost": 28.27,
+      "name": "rg-taoufik-mellah"
     },
     {
-      "name": "rg-nassim-laidi",
       "subscription": "sub-idf-01",
-      "cost": 15.97
+      "cost": 22.47,
+      "name": "rg-nassim-laidi"
     },
     {
-      "name": "rg-nicolas-bedikian",
       "subscription": "sub-idf-01",
-      "cost": 15.97
+      "cost": 22.47,
+      "name": "rg-nicolas-bedikian"
     },
     {
-      "name": "rg-thibault-gibard-coolify-n8n",
       "subscription": "sub-idf-01",
-      "cost": 11.5
+      "cost": 16.3,
+      "name": "rg-thibault-gibard-coolify-n8n"
     },
     {
-      "name": "rg-imade-bouziane",
       "subscription": "sub-idf-01",
-      "cost": 9.7
+      "cost": 13.67,
+      "name": "rg-imade-bouziane"
     },
     {
-      "name": "ipam-rg-zh4ro54dapnky",
       "subscription": "sub-lyon-01",
-      "cost": 9.08
+      "cost": 12.76,
+      "name": "ipam-rg-zh4ro54dapnky"
     },
     {
-      "name": "rg-jonathan-bibinet",
       "subscription": "sub-idf-01",
-      "cost": 4.8
+      "cost": 6.76,
+      "name": "rg-jonathan-bibinet"
     },
     {
-      "name": "rg-benjaminmoreaux-dc",
       "subscription": "sub-nantes-01",
-      "cost": 4.35
+      "cost": 5.79,
+      "name": "rg-benjaminmoreaux-dc"
     }
   ],
-  "lastUpdated": "2026-10-03 11:14",
-  "totalMTD": 179.98
+  "totalMTD": 252.89
 }
