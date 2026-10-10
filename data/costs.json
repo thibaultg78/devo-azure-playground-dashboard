@@ -1,90 +1,39 @@
 {
-  "delta": -69.1,
-  "totalMTD": 630.23,
+  "delta": 0,
+  "totalPrevious": 0.0,
+  "lastUpdated": "2026-10-10 12:02",
+  "totalMTD": 0.0,
+  "topRGs": null,
   "subscriptions": [
     {
-      "mtd": 464.94,
-      "previous": 1744.85,
-      "name": "sub-idf-01"
-    },
-    {
-      "mtd": 0.0,
-      "previous": 0.0,
-      "name": "sub-lille-01"
-    },
-    {
-      "mtd": 165.29,
-      "previous": 292.7,
-      "name": "sub-lyon-01"
-    },
-    {
-      "mtd": 0,
+      "name": "sub-idf-01",
       "previous": 0,
-      "name": "sub-marseille-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-lille-01",
       "previous": 0,
-      "name": "sub-nantes-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
+      "name": "sub-lyon-01",
       "previous": 0,
-      "name": "sub-temp-01"
-    }
-  ],
-  "lastUpdated": "2026-10-09 12:43",
-  "totalPrevious": 2037.55,
-  "topRGs": [
-    {
-      "cost": 87.92,
-      "subscription": "sub-idf-01",
-      "name": "rg-pierre-chancrin"
+      "mtd": 0
     },
     {
-      "cost": 73.61,
-      "subscription": "sub-idf-01",
-      "name": "rg-taoufik-mellah"
+      "name": "sub-marseille-01",
+      "previous": 0,
+      "mtd": 0
     },
     {
-      "cost": 58.54,
-      "subscription": "sub-idf-01",
-      "name": "rg-nassim-laidi"
+      "name": "sub-nantes-01",
+      "previous": 0,
+      "mtd": 0
     },
     {
-      "cost": 58.54,
-      "subscription": "sub-idf-01",
-      "name": "rg-nicolas-bedikian"
-    },
-    {
-      "cost": 43.25,
-      "subscription": "sub-idf-01",
-      "name": "rg-thibault-gibard-coolify-n8n"
-    },
-    {
-      "cost": 27.39,
-      "subscription": "sub-idf-01",
-      "name": "rg-imade-bouziane"
-    },
-    {
-      "cost": 17.6,
-      "subscription": "sub-idf-01",
-      "name": "rg-jonathan-bibinet"
-    },
-    {
-      "cost": 13.21,
-      "subscription": "sub-idf-01",
-      "name": "rg-apilash-varatharasa"
-    },
-    {
-      "cost": 12.38,
-      "subscription": "sub-idf-01",
-      "name": "rg-samir-laissaoui"
-    },
-    {
-      "cost": 12.35,
-      "subscription": "sub-idf-01",
-      "name": "rg-fabric-global"
+      "name": "sub-temp-01",
+      "previous": 0,
+      "mtd": 0
     }
   ]
 }
