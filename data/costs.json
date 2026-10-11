@@ -1,39 +1,39 @@
 {
-  "delta": 0,
-  "totalPrevious": 0.0,
-  "lastUpdated": "2026-10-10 12:02",
-  "totalMTD": 0.0,
   "topRGs": null,
+  "lastUpdated": "2026-10-11 12:15",
   "subscriptions": [
     {
       "name": "sub-idf-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 578.53,
+      "previous": 0
     },
     {
       "name": "sub-lille-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-lyon-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-marseille-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-nantes-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-temp-01",
-      "previous": 0,
-      "mtd": 0
+      "mtd": 0,
+      "previous": 0
     }
-  ]
+  ],
+  "totalPrevious": 0.0,
+  "delta": 0,
+  "totalMTD": 578.53
 }
