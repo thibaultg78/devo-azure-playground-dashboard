@@ -1,55 +1,55 @@
 {
-  "totalPrevious": 80.57,
-  "lastUpdated": "2026-10-29 12:26",
-  "subscriptions": [
-    {
-      "mtd": 0,
-      "name": "sub-idf-01",
-      "previous": 0
-    },
-    {
-      "mtd": 0,
-      "name": "sub-lille-01",
-      "previous": 0
-    },
-    {
-      "mtd": 0,
-      "name": "sub-lyon-01",
-      "previous": 0
-    },
-    {
-      "mtd": 0,
-      "name": "sub-marseille-01",
-      "previous": 0
-    },
-    {
-      "mtd": 74.6,
-      "name": "sub-nantes-01",
-      "previous": 80.57
-    },
-    {
-      "mtd": 0,
-      "name": "sub-temp-01",
-      "previous": 0
-    }
-  ],
-  "delta": -7.4,
+  "lastUpdated": "2026-10-30 12:17",
   "topRGs": [
     {
+      "subscription": "sub-nantes-01",
       "name": "rg-benjaminmoreaux-dc",
-      "cost": 47.76,
-      "subscription": "sub-nantes-01"
+      "cost": 49.26
     },
     {
+      "subscription": "sub-nantes-01",
       "name": "rg-alexandre-lesieur",
-      "cost": 20.82,
-      "subscription": "sub-nantes-01"
+      "cost": 21.75
     },
     {
+      "subscription": "sub-nantes-01",
       "name": "rg-matthieu-reby",
-      "cost": 6.02,
-      "subscription": "sub-nantes-01"
+      "cost": 6.02
     }
   ],
-  "totalMTD": 74.6
+  "subscriptions": [
+    {
+      "previous": 0,
+      "mtd": 0,
+      "name": "sub-idf-01"
+    },
+    {
+      "previous": 0,
+      "mtd": 0,
+      "name": "sub-lille-01"
+    },
+    {
+      "previous": 0,
+      "mtd": 0,
+      "name": "sub-lyon-01"
+    },
+    {
+      "previous": 0,
+      "mtd": 0,
+      "name": "sub-marseille-01"
+    },
+    {
+      "previous": 80.57,
+      "mtd": 77.03,
+      "name": "sub-nantes-01"
+    },
+    {
+      "previous": 0,
+      "mtd": 0,
+      "name": "sub-temp-01"
+    }
+  ],
+  "totalPrevious": 80.57,
+  "delta": -4.4,
+  "totalMTD": 77.03
 }
