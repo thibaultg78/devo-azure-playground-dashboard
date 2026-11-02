@@ -1,90 +1,90 @@
 {
-  "subscriptions": [
-    {
-      "previous": 0,
-      "name": "sub-idf-01",
-      "mtd": 0
-    },
-    {
-      "previous": 0.0,
-      "name": "sub-lille-01",
-      "mtd": 0
-    },
-    {
-      "previous": 575.57,
-      "name": "sub-lyon-01",
-      "mtd": 0.62
-    },
-    {
-      "previous": 0,
-      "name": "sub-marseille-01",
-      "mtd": 0
-    },
-    {
-      "previous": 81.22,
-      "name": "sub-nantes-01",
-      "mtd": 0.36
-    },
-    {
-      "previous": 0,
-      "name": "sub-temp-01",
-      "mtd": 0
-    }
-  ],
-  "delta": -99.9,
-  "totalPrevious": 656.79,
-  "lastUpdated": "2026-11-01 12:48",
+  "totalMTD": 51.7,
   "topRGs": [
     {
+      "cost": 12.17,
+      "subscription": "sub-idf-01",
+      "name": "rg-taoufik-mellah"
+    },
+    {
+      "cost": 9.65,
+      "subscription": "sub-idf-01",
+      "name": "rg-nicolas-bedikian"
+    },
+    {
+      "cost": 9.65,
+      "subscription": "sub-idf-01",
+      "name": "rg-nassim-laidi"
+    },
+    {
+      "cost": 7.06,
+      "subscription": "sub-idf-01",
+      "name": "rg-thibault-gibard-coolify-n8n"
+    },
+    {
+      "cost": 2.47,
+      "subscription": "sub-idf-01",
+      "name": "rg-imade-bouziane"
+    },
+    {
+      "cost": 2.23,
       "subscription": "sub-nantes-01",
-      "name": "rg-benjaminmoreaux-dc",
-      "cost": 0.27
+      "name": "rg-benjaminmoreaux-dc"
     },
     {
-      "subscription": "sub-lyon-01",
-      "name": "cyberlake-grm",
-      "cost": 0.18
+      "cost": 2.09,
+      "subscription": "sub-idf-01",
+      "name": "rg-samir-laissaoui"
     },
     {
-      "subscription": "sub-lyon-01",
-      "name": "databricks-rg-databricks-workplace-rf3udxvsa5kr6",
-      "cost": 0.18
+      "cost": 1.48,
+      "subscription": "sub-idf-01",
+      "name": "cyberlake-managedrg"
     },
     {
-      "subscription": "sub-lyon-01",
-      "name": "rg-bla-automationstartstop",
-      "cost": 0.18
+      "cost": 1.37,
+      "subscription": "sub-idf-01",
+      "name": "rg-moussa-aboubakar"
     },
     {
-      "subscription": "sub-nantes-01",
-      "name": "rg-alexandre-lesieur",
-      "cost": 0.09
-    },
-    {
-      "subscription": "sub-lyon-01",
-      "name": "rg-phpipam",
-      "cost": 0.05
-    },
-    {
-      "subscription": "sub-lyon-01",
-      "name": "rg-marl-ais-test-weu",
-      "cost": 0.03
-    },
-    {
-      "subscription": "sub-lyon-01",
-      "name": "cyberlake-demo",
-      "cost": 0.0
-    },
-    {
-      "subscription": "sub-lyon-01",
-      "name": "databricks-rg-cyberlake_test_zerobus-clz7n3uh3u2gm",
-      "cost": 0.0
-    },
-    {
-      "subscription": "sub-lyon-01",
-      "name": "databricks_demo_mg",
-      "cost": 0.0
+      "cost": 1.13,
+      "subscription": "sub-idf-01",
+      "name": "rg-stephane-zeng"
     }
   ],
-  "totalMTD": 0.98
+  "totalPrevious": 1750.14,
+  "subscriptions": [
+    {
+      "mtd": 51.7,
+      "name": "sub-idf-01",
+      "previous": 1668.92
+    },
+    {
+      "mtd": 0.0,
+      "name": "sub-lille-01",
+      "previous": 0
+    },
+    {
+      "mtd": 0,
+      "name": "sub-lyon-01",
+      "previous": 0
+    },
+    {
+      "mtd": 0,
+      "name": "sub-marseille-01",
+      "previous": 0
+    },
+    {
+      "mtd": 0,
+      "name": "sub-nantes-01",
+      "previous": 81.22
+    },
+    {
+      "mtd": 0,
+      "name": "sub-temp-01",
+      "previous": 0
+    }
+  ],
+  "lastUpdated": "2026-11-02 14:57",
+  "delta": -97.0
 }
