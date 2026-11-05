@@ -1,90 +1,39 @@
 {
-  "totalPrevious": 656.79,
+  "totalPrevious": 0.0,
+  "delta": 0,
   "subscriptions": [
     {
       "previous": 0,
-      "mtd": 0,
-      "name": "sub-idf-01"
+      "name": "sub-idf-01",
+      "mtd": 0
     },
     {
       "previous": 0,
-      "mtd": 0,
-      "name": "sub-lille-01"
-    },
-    {
-      "previous": 575.57,
-      "mtd": 0,
-      "name": "sub-lyon-01"
+      "name": "sub-lille-01",
+      "mtd": 0
     },
     {
       "previous": 0,
-      "mtd": 0,
-      "name": "sub-marseille-01"
-    },
-    {
-      "previous": 81.22,
-      "mtd": 8.07,
-      "name": "sub-nantes-01"
+      "name": "sub-lyon-01",
+      "mtd": 0
     },
     {
       "previous": 0,
-      "mtd": 0,
-      "name": "sub-temp-01"
+      "name": "sub-marseille-01",
+      "mtd": 0
+    },
+    {
+      "previous": 0,
+      "name": "sub-nantes-01",
+      "mtd": 0
+    },
+    {
+      "previous": 0,
+      "name": "sub-temp-01",
+      "mtd": 0
     }
   ],
-  "totalMTD": 8.07,
-  "topRGs": [
-    {
-      "cost": 6.92,
-      "subscription": "sub-lyon-01",
-      "name": "rg-we-connectivity-firewall-prd-01"
-    },
-    {
-      "cost": 6.5,
-      "subscription": "sub-lyon-01",
-      "name": "rg-bla-automationstartstop"
-    },
-    {
-      "cost": 5.41,
-      "subscription": "sub-nantes-01",
-      "name": "rg-benjaminmoreaux-dc"
-    },
-    {
-      "cost": 4.44,
-      "subscription": "sub-lyon-01",
-      "name": "rg-we-identity-adds-prd-01"
-    },
-    {
-      "cost": 3.92,
-      "subscription": "sub-lyon-01",
-      "name": "rg-we-connectivity-network-prd-01"
-    },
-    {
-      "cost": 3.55,
-      "subscription": "sub-lyon-01",
-      "name": "cyberlake-grm"
-    },
-    {
-      "cost": 3.55,
-      "subscription": "sub-lyon-01",
-      "name": "databricks-rg-databricks-workplace-rf3udxvsa5kr6"
-    },
-    {
-      "cost": 2.66,
-      "subscription": "sub-nantes-01",
-      "name": "rg-alexandre-lesieur"
-    },
-    {
-      "cost": 1.08,
-      "subscription": "sub-lyon-01",
-      "name": "rg-phpipam"
-    },
-    {
-      "cost": 0.57,
-      "subscription": "sub-lyon-01",
-      "name": "rg-marl-ais-test-weu"
-    }
-  ],
-  "delta": -98.8,
-  "lastUpdated": "2026-11-04 13:53"
+  "totalMTD": 0.0,
+  "topRGs": null,
+  "lastUpdated": "2026-11-05 14:08"
 }
