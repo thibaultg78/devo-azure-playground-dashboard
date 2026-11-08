@@ -1,90 +1,90 @@
 {
-  "lastUpdated": "2026-11-07 12:35",
-  "delta": -85.4,
   "subscriptions": [
     {
-      "mtd": 245.23,
+      "name": "sub-idf-01",
       "previous": 1668.92,
-      "name": "sub-idf-01"
+      "mtd": 286.56
     },
     {
-      "mtd": 0.0,
+      "name": "sub-lille-01",
       "previous": 0.0,
-      "name": "sub-lille-01"
+      "mtd": 0.0
     },
     {
-      "mtd": 83.0,
+      "name": "sub-lyon-01",
       "previous": 575.57,
-      "name": "sub-lyon-01"
+      "mtd": 93.19
     },
     {
-      "mtd": 0,
+      "name": "sub-marseille-01",
       "previous": 0,
-      "name": "sub-marseille-01"
+      "mtd": 0
     },
     {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-nantes-01"
+      "name": "sub-nantes-01",
+      "previous": 81.22,
+      "mtd": 19.77
     },
     {
-      "mtd": 0,
+      "name": "sub-temp-01",
       "previous": 0,
-      "name": "sub-temp-01"
+      "mtd": 0
     }
   ],
-  "totalMTD": 328.23,
-  "totalPrevious": 2244.49,
+  "totalPrevious": 2325.71,
+  "delta": -82.8,
+  "lastUpdated": "2026-11-08 12:53",
+  "totalMTD": 399.52,
   "topRGs": [
     {
-      "cost": 45.24,
-      "name": "rg-nassim-laidi",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 45.24,
       "name": "rg-nicolas-bedikian",
+      "cost": 52.48,
       "subscription": "sub-idf-01"
     },
     {
-      "cost": 40.93,
+      "name": "rg-nassim-laidi",
+      "cost": 52.48,
+      "subscription": "sub-idf-01"
+    },
+    {
       "name": "rg-taoufik-mellah",
+      "cost": 46.62,
       "subscription": "sub-idf-01"
     },
     {
-      "cost": 33.65,
       "name": "rg-thibault-gibard-coolify-n8n",
+      "cost": 39.05,
       "subscription": "sub-idf-01"
     },
     {
-      "cost": 27.05,
       "name": "rg-we-connectivity-firewall-prd-01",
+      "cost": 28.29,
       "subscription": "sub-lyon-01"
     },
     {
-      "cost": 14.15,
-      "name": "rg-we-identity-adds-prd-01",
-      "subscription": "sub-lyon-01"
-    },
-    {
-      "cost": 14.11,
       "name": "rg-imade-bouziane",
+      "cost": 18.4,
       "subscription": "sub-idf-01"
     },
     {
-      "cost": 13.48,
-      "name": "rg-fabric-global",
-      "subscription": "sub-idf-01"
-    },
-    {
-      "cost": 12.71,
-      "name": "rg-bla-automationstartstop",
+      "name": "rg-we-identity-adds-prd-01",
+      "cost": 16.12,
       "subscription": "sub-lyon-01"
     },
     {
-      "cost": 9.76,
-      "name": "rg-samir-laissaoui",
+      "name": "rg-bla-automationstartstop",
+      "cost": 14.65,
+      "subscription": "sub-lyon-01"
+    },
+    {
+      "name": "rg-fabric-global",
+      "cost": 13.88,
       "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-benjaminmoreaux-dc",
+      "cost": 13.75,
+      "subscription": "sub-nantes-01"
     }
   ]
 }
