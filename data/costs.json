@@ -1,19 +1,22 @@
 {
+  "totalMTD": 0.0,
+  "lastUpdated": "2026-11-13 14:03",
+  "totalPrevious": 0.0,
   "subscriptions": [
     {
       "name": "sub-idf-01",
-      "mtd": 451.42,
-      "previous": 1668.92
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-lille-01",
-      "mtd": 0.0,
-      "previous": 0.0
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-lyon-01",
-      "mtd": 145.89,
-      "previous": 575.57
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-marseille-01",
@@ -22,8 +25,8 @@
     },
     {
       "name": "sub-nantes-01",
-      "mtd": 29.68,
-      "previous": 81.22
+      "mtd": 0,
+      "previous": 0
     },
     {
       "name": "sub-temp-01",
@@ -31,60 +34,6 @@
       "previous": 0
     }
   ],
-  "totalMTD": 626.99,
-  "totalPrevious": 2325.71,
-  "topRGs": [
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-nicolas-bedikian",
-      "cost": 81.74
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-nassim-laidi",
-      "cost": 81.74
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-taoufik-mellah",
-      "cost": 70.45
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-thibault-gibard-coolify-n8n",
-      "cost": 61.12
-    },
-    {
-      "subscription": "sub-idf-01",
-      "name": "rg-imade-bouziane",
-      "cost": 36.32
-    },
-    {
-      "subscription": "sub-lyon-01",
-      "name": "rg-we-connectivity-firewall-prd-01",
-      "cost": 33.35
-    },
-    {
-      "subscription": "sub-lyon-01",
-      "name": "rg-we-identity-adds-prd-01",
-      "cost": 24.18
-    },
-    {
-      "subscription": "sub-lyon-01",
-      "name": "rg-bla-automationstartstop",
-      "cost": 22.94
-    },
-    {
-      "subscription": "sub-nantes-01",
-      "name": "rg-benjaminmoreaux-dc",
-      "cost": 20.46
-    },
-    {
-      "subscription": "sub-lyon-01",
-      "name": "rg-we-connectivity-network-prd-01",
-      "cost": 17.69
-    }
-  ],
-  "delta": -73.0,
-  "lastUpdated": "2026-11-12 14:45"
+  "topRGs": null,
+  "delta": 0
 }
