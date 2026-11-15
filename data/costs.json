@@ -1,90 +1,90 @@
 {
-  "delta": -68.3,
-  "subscriptions": [
-    {
-      "mtd": 545.36,
-      "previous": 1668.92,
-      "name": "sub-idf-01"
-    },
-    {
-      "mtd": 0.0,
-      "previous": 0.0,
-      "name": "sub-lille-01"
-    },
-    {
-      "mtd": 165.68,
-      "previous": 575.57,
-      "name": "sub-lyon-01"
-    },
-    {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-marseille-01"
-    },
-    {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-nantes-01"
-    },
-    {
-      "mtd": 0,
-      "previous": 0,
-      "name": "sub-temp-01"
-    }
-  ],
-  "lastUpdated": "2026-11-14 13:05",
+  "totalMTD": 799.67,
+  "delta": -64.4,
   "totalPrevious": 2244.49,
-  "totalMTD": 711.04,
   "topRGs": [
     {
       "subscription": "sub-idf-01",
-      "cost": 95.92,
-      "name": "rg-nicolas-bedikian"
+      "name": "rg-nicolas-bedikian",
+      "cost": 103.46
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 95.92,
-      "name": "rg-nassim-laidi"
+      "name": "rg-nassim-laidi",
+      "cost": 103.46
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 81.89,
-      "name": "rg-taoufik-mellah"
+      "name": "rg-taoufik-mellah",
+      "cost": 88.0
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 71.51,
-      "name": "rg-thibault-gibard-coolify-n8n"
+      "name": "rg-thibault-gibard-coolify-n8n",
+      "cost": 77.15
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 44.82,
-      "name": "rg-imade-bouziane"
+      "name": "rg-imade-bouziane",
+      "cost": 49.53
     },
     {
       "subscription": "sub-lyon-01",
-      "cost": 35.72,
-      "name": "rg-we-connectivity-firewall-prd-01"
+      "name": "rg-we-connectivity-firewall-prd-01",
+      "cost": 37.02
     },
     {
       "subscription": "sub-idf-01",
-      "cost": 34.59,
-      "name": "rg-fabric-global"
+      "name": "rg-fabric-global",
+      "cost": 35.03
     },
     {
       "subscription": "sub-lyon-01",
-      "cost": 27.98,
-      "name": "rg-we-identity-adds-prd-01"
+      "name": "rg-we-identity-adds-prd-01",
+      "cost": 30.07
     },
     {
       "subscription": "sub-lyon-01",
-      "cost": 26.91,
-      "name": "rg-bla-automationstartstop"
+      "name": "rg-bla-automationstartstop",
+      "cost": 28.93
     },
     {
       "subscription": "sub-lyon-01",
-      "cost": 20.96,
-      "name": "rg-we-connectivity-network-prd-01"
+      "name": "rg-we-connectivity-network-prd-01",
+      "cost": 22.73
     }
-  ]
+  ],
+  "subscriptions": [
+    {
+      "mtd": 586.29,
+      "name": "sub-idf-01",
+      "previous": 1668.92
+    },
+    {
+      "mtd": 0.0,
+      "name": "sub-lille-01",
+      "previous": 0.0
+    },
+    {
+      "mtd": 176.32,
+      "name": "sub-lyon-01",
+      "previous": 575.57
+    },
+    {
+      "mtd": 0,
+      "name": "sub-marseille-01",
+      "previous": 0
+    },
+    {
+      "mtd": 37.06,
+      "name": "sub-nantes-01",
+      "previous": 0
+    },
+    {
+      "mtd": 0,
+      "name": "sub-temp-01",
+      "previous": 0
+    }
+  ],
+  "lastUpdated": "2026-11-15 13:34"
 }
