@@ -1,90 +1,39 @@
 {
-  "totalPrevious": 1668.92,
+  "topRGs": null,
+  "totalMTD": 0.0,
+  "totalPrevious": 0.0,
   "subscriptions": [
     {
+      "mtd": 0,
       "name": "sub-idf-01",
-      "mtd": 729.83,
-      "previous": 1668.92
+      "previous": 0
     },
     {
+      "mtd": 0,
       "name": "sub-lille-01",
-      "mtd": 0,
       "previous": 0
     },
     {
+      "mtd": 0,
       "name": "sub-lyon-01",
-      "mtd": 0,
       "previous": 0
     },
     {
+      "mtd": 0,
       "name": "sub-marseille-01",
-      "mtd": 0,
       "previous": 0
     },
     {
+      "mtd": 0,
       "name": "sub-nantes-01",
-      "mtd": 0,
       "previous": 0
     },
     {
+      "mtd": 0,
       "name": "sub-temp-01",
-      "mtd": 0,
       "previous": 0
     }
   ],
-  "totalMTD": 729.83,
-  "lastUpdated": "2026-11-18 15:15",
-  "topRGs": [
-    {
-      "subscription": "sub-idf-01",
-      "cost": 126.08,
-      "name": "rg-nicolas-bedikian"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 126.08,
-      "name": "rg-nassim-laidi"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 105.53,
-      "name": "rg-taoufik-mellah"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 94.08,
-      "name": "rg-thibault-gibard-coolify-n8n"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 63.19,
-      "name": "rg-imade-bouziane"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 38.65,
-      "name": "rg-fabric-global"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 27.11,
-      "name": "rg-samir-laissaoui"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 21.78,
-      "name": "rg-michel-sfeir"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 18.82,
-      "name": "cyberlake-managedrg"
-    },
-    {
-      "subscription": "sub-idf-01",
-      "cost": 17.55,
-      "name": "rg-moussa-aboubakar"
-    }
-  ],
-  "delta": -56.3
+  "lastUpdated": "2026-11-19 15:21",
+  "delta": 0
 }
