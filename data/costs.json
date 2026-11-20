@@ -1,7 +1,5 @@
 {
-  "topRGs": null,
-  "totalMTD": 0.0,
-  "totalPrevious": 0.0,
+  "lastUpdated": "2026-11-20 14:59",
   "subscriptions": [
     {
       "mtd": 0,
@@ -34,6 +32,8 @@
       "previous": 0
     }
   ],
-  "lastUpdated": "2026-11-19 15:21",
-  "delta": 0
+  "totalMTD": 0.0,
+  "delta": 0,
+  "topRGs": null,
+  "totalPrevious": 0.0
 }
