@@ -1,20 +1,22 @@
 {
-  "lastUpdated": "2026-11-20 14:59",
+  "lastUpdated": "2026-11-21 14:20",
+  "totalMTD": 1233.22,
+  "delta": -47.0,
   "subscriptions": [
     {
-      "mtd": 0,
+      "mtd": 912.34,
       "name": "sub-idf-01",
-      "previous": 0
+      "previous": 1668.92
     },
     {
-      "mtd": 0,
+      "mtd": 0.0,
       "name": "sub-lille-01",
-      "previous": 0
+      "previous": 0.0
     },
     {
-      "mtd": 0,
+      "mtd": 267.09,
       "name": "sub-lyon-01",
-      "previous": 0
+      "previous": 575.57
     },
     {
       "mtd": 0,
@@ -22,9 +24,9 @@
       "previous": 0
     },
     {
-      "mtd": 0,
+      "mtd": 53.79,
       "name": "sub-nantes-01",
-      "previous": 0
+      "previous": 81.22
     },
     {
       "mtd": 0,
@@ -32,8 +34,57 @@
       "previous": 0
     }
   ],
-  "totalMTD": 0.0,
-  "delta": 0,
-  "topRGs": null,
-  "totalPrevious": 0.0
+  "topRGs": [
+    {
+      "subscription": "sub-idf-01",
+      "cost": 146.59,
+      "name": "rg-nassim-laidi"
+    },
+    {
+      "subscription": "sub-idf-01",
+      "cost": 146.29,
+      "name": "rg-nicolas-bedikian"
+    },
+    {
+      "subscription": "sub-idf-01",
+      "cost": 119.47,
+      "name": "rg-taoufik-mellah"
+    },
+    {
+      "subscription": "sub-idf-01",
+      "cost": 109.45,
+      "name": "rg-thibault-gibard-coolify-n8n"
+    },
+    {
+      "subscription": "sub-idf-01",
+      "cost": 75.65,
+      "name": "rg-imade-bouziane"
+    },
+    {
+      "subscription": "sub-idf-01",
+      "cost": 61.86,
+      "name": "rg-fabric-global"
+    },
+    {
+      "subscription": "sub-idf-01",
+      "cost": 53.37,
+      "name": "rg-michel-sfeir"
+    },
+    {
+      "subscription": "sub-lyon-01",
+      "cost": 52.38,
+      "name": "rg-we-connectivity-firewall-prd-01"
+    },
+    {
+      "subscription": "sub-lyon-01",
+      "cost": 45.59,
+      "name": "rg-we-connectivity-network-prd-01"
+    },
+    {
+      "subscription": "sub-lyon-01",
+      "cost": 41.83,
+      "name": "rg-we-identity-adds-prd-01"
+    }
+  ],
+  "totalPrevious": 2325.71
 }
