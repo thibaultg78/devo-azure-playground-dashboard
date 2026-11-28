@@ -1,39 +1,90 @@
 {
-  "delta": -28.8,
-  "topRGs": null,
-  "totalPrevious": 1668.92,
-  "totalMTD": 1188.13,
+  "delta": -43.7,
+  "totalPrevious": 2325.71,
+  "totalMTD": 1308.96,
   "subscriptions": [
     {
-      "name": "sub-idf-01",
-      "mtd": 1188.13,
-      "previous": 1668.92
+      "previous": 1668.92,
+      "mtd": 1235.72,
+      "name": "sub-idf-01"
     },
     {
-      "name": "sub-lille-01",
+      "previous": 0,
       "mtd": 0,
-      "previous": 0
+      "name": "sub-lille-01"
     },
     {
-      "name": "sub-lyon-01",
+      "previous": 575.57,
       "mtd": 0,
-      "previous": 0
+      "name": "sub-lyon-01"
     },
     {
-      "name": "sub-marseille-01",
+      "previous": 0,
       "mtd": 0,
-      "previous": 0
+      "name": "sub-marseille-01"
     },
     {
-      "name": "sub-nantes-01",
-      "mtd": 0,
-      "previous": 0
+      "previous": 81.22,
+      "mtd": 73.24,
+      "name": "sub-nantes-01"
     },
     {
-      "name": "sub-temp-01",
+      "previous": 0,
       "mtd": 0,
-      "previous": 0
+      "name": "sub-temp-01"
     }
   ],
-  "lastUpdated": "2026-11-27 16:16"
+  "topRGs": [
+    {
+      "name": "rg-nassim-laidi",
+      "cost": 197.87,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-nicolas-bedikian",
+      "cost": 197.87,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-taoufik-mellah",
+      "cost": 154.4,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-thibault-gibard-coolify-n8n",
+      "cost": 147.82,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-we-connectivity-network-prd-01",
+      "cost": 109.69,
+      "subscription": "sub-lyon-01"
+    },
+    {
+      "name": "rg-imade-bouziane",
+      "cost": 106.97,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-fabric-global",
+      "cost": 82.6,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-we-connectivity-firewall-prd-01",
+      "cost": 60.14,
+      "subscription": "sub-lyon-01"
+    },
+    {
+      "name": "rg-rabih-semaan",
+      "cost": 59.96,
+      "subscription": "sub-idf-01"
+    },
+    {
+      "name": "rg-we-identity-adds-prd-01",
+      "cost": 55.89,
+      "subscription": "sub-lyon-01"
+    }
+  ],
+  "lastUpdated": "2026-11-28 15:10"
 }
